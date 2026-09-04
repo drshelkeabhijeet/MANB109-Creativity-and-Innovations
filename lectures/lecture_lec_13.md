@@ -20,7 +20,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Rapid Combine"
+## 0:00 – 0:10 · Recall, then warm-up — "Rapid Combine"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> Which SCAMPER row gave you your best idea for your anchor's offering? Did it beat your Session 5 idea?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -83,6 +93,12 @@ Compare Substitute rows across all four grids, then Combine, and so on. Build on
 | Team picks a problem they already solved | "You know the answer. Pick one you do not." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Each member: the row you lost the argument on — write why you still think you were right.
 
 ---
 

@@ -106,7 +106,10 @@ the `target_cos` of **all 15 sessions** — that is what makes it attainable.
 
 ### 4. Fixed 120-minute rhythm
 
-`10 warm-up · 15 input · 60 making · 25 critique and pitch · 10 idea log`
+`3 recall · 7 warm-up · 15 input · 60 making · 25 critique and pitch · 10 idea log`
+
+Recall is three minutes from memory, log closed, before anything new — every session from
+the second. It is not optional and not a warm-up.
 
 Never more than 15 continuous minutes of facilitator talk. Activity minutes are the clear
 majority. If content will not fit the 15-minute input beat, move it into the making phase as
@@ -134,7 +137,16 @@ Each session guide names where the tool is reused in Semester III — mind mappi
 MANB307A, SCAMPER in MANB304A, pitching in MANB307M, decomposition in MANB306A. The mapping
 is in `delivery_model.forward_links`. Signposted transfer is retained; unsignposted is not.
 
-### 9. Feedback, not grading
+### 9. Learning-science moves — all binding
+
+Every session carries: a **retrieval prompt** (recall from memory), an **early-finisher
+extension** (deeper into the same task, never a new one), and a **worksheet** the student
+holds. Sessions that introduce a technique carry a **worked example** built in front of the
+room and a **contrasting-cases** sheet compared *before* students produce their own. Unit ends
+(5, 10, 15) fill a **technique card**. The owner sees the converged idea **between Sessions 5
+and 6**. All of it is recorded in `delivery_model.learning_science`; none of it is decoration.
+
+### 10. Feedback, not grading
 
 There is no assessment plan. The peer critique protocol and the idea log are the feedback
 instruments and are **ungraded**. Never attach marks, weights or rubrics to them.
@@ -194,7 +206,7 @@ Write for BAMU students — many first-generation learners from rural and semi-u
 Marathwada. Examples come from their own anchor enterprises, not Silicon Valley case studies.
 Mind maps and SCAMPER are taught pen-and-paper first, software second.
 
-## Step 5 — `templates/`, `worksheets/`, `visuals/` (slides done)
+## Step 5 — `templates/`, `worksheets/`, `visuals/` (all done)
 
 - **slides/** — **done.** All 15 decks exist as `slides_lec_NN.{md,json,html,pptx,pdf}`, six
   slides each: title, the one idea, two beat slides, the task, the close. They serve the
@@ -208,12 +220,12 @@ Mind maps and SCAMPER are taught pen-and-paper first, software second.
   scheme is attached later, generate rubrics from it then.
 - **templates/** — five files already exist and are **authored, not generated**:
   `anchor_business_brief.md`, `peer_critique_protocol.md`, `idea_log.md`,
-  `pitch_structure.md`, `facilitator_session_template.md`. Reference them; never overwrite
-  them. You may add only the two technique canvases still missing: a **mind-map canvas**
-  (A3, centre node pre-drawn) and a **SCAMPER grid** (7 prompts × idea).
-- **worksheets/** — per-session exercise sheets. **Printable A4, one page, bilingual
-  labels (Marathi + English), usable with no device.** A worksheet that needs a screen is a
-  failed worksheet.
+  `pitch_structure.md`, `facilitator_session_template.md`, `mind_map_canvas.md`,
+  `scamper_grid.md`, `technique_card.md`, and the three `contrasting_cases_unit*.md`
+  sheets. Eleven files, all authored. Reference them; never overwrite them.
+- **worksheets/** — **done.** Fifteen sheets, one per session: recall box, the task, scaffolded
+  space per making phase, the extension, pitch prep, after-critique box. Bilingual labels,
+  device-free. Regenerate from the generator, never hand-edit.
 - **visuals/** — **room posters, not slide decoration**: the creative process stages,
   mind-map anatomy, the SCAMPER wheel. Legible from the back of a classroom, printable in
   greyscale on A3.
@@ -230,7 +242,9 @@ Mind maps and SCAMPER are taught pen-and-paper first, software second.
 - Each facilitator guide follows `templates/facilitator_session_template.md` and names its
   forward link.
 - The five authored `templates/` files are unmodified.
-- Worksheets are one-page, bilingual and device-free.
+- Worksheets are one-page, bilingual and device-free — one per session, fifteen total.
+- Every guide has a 3-minute recall beat (Session 1 excepted) and an early-finisher extension.
+- Sessions 6 and 11 carry a worked example; sessions 2, 4, 6, 11 reference a contrasting-cases sheet.
 - `readings` is empty and `rubrics/` / `assessments/` are empty — both are deliberate.
 - Every deck is 6 slides, ≤115 words per slide, ≥14pt, and `projector_required: false`.
 - `build_telemetry` counts equal files on disk.

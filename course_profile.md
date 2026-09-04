@@ -74,7 +74,8 @@ placement-relevant thing this course delivers. It is also the only attainment pa
 
 | Phase | Minutes |
 |---|---|
-| Warm-up | 10 |
+| Recall — from memory, log closed | 3 |
+| Warm-up | 7 |
 | Input | 15 |
 | Making | 60 |
 | Critique and pitch | 25 |
@@ -106,6 +107,18 @@ Assume no laptop, no reliable projector, patchy data. A3 sheets for mind maps, a
 
 Mind mapping stays in use through Unit 3; Unit 1's brainstorming norms hold all semester.
 Rigid unit blocks let students treat each technique as finished and forgettable.
+
+### Seven things learning science says work — built in, not bolted on
+
+| Move | Where |
+|---|---|
+| **Retrieval practice** — three minutes recalling last session from memory before any new input | Every session from the second |
+| **Worked examples** — the technique built in front of students, narrated, before they try it | Sessions 6 and 11 |
+| **Contrasting cases** — a strong and a weak example compared, and *why* written down, before producing their own | Sessions 2, 4, 6, 11 |
+| **Per-session worksheets** — what the student holds through the 60-minute making phase | All 15 |
+| **Early-finisher extensions** — always deeper into the same task, never a new one | All 15 |
+| **Owner check-in** — the converged idea shown to the real owner after Session 5, their exact words recorded | Between 5 and 6 |
+| **Technique cards** — what it is, when to use it, when not to, and an honest can-I-do-this-yet check | Sessions 5, 10, 15 |
 
 ### Say the forward links out loud
 

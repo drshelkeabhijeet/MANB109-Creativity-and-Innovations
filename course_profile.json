@@ -61,12 +61,13 @@
         ]
       },
       "session_rhythm_minutes": {
-        "warm_up": 10,
+        "recall": 3,
+        "warm_up": 7,
         "input": 15,
         "making": 60,
         "critique_and_pitch": 25,
         "idea_log": 10,
-        "rule": "Never more than 15 continuous minutes of facilitator talk in a 120-minute block."
+        "rule": "Never more than 15 continuous minutes of facilitator talk in a 120-minute block. Recall comes before warm-up, before any new input."
       },
       "psychological_safety": {
         "rule": "Unit 1 teaches barriers to creativity and mental blocks; the room has to practise what the unit preaches. Fear of looking foolish is the binding constraint on a creativity classroom, not lack of technique.",
@@ -119,6 +120,49 @@
             "as": "mapping a supply chain's failure points"
           }
         ]
+      },
+      "learning_science": {
+        "retrieval_practice": {
+          "rule": "Every session from the second opens with three minutes of recall from memory, log closed, spoken to a partner, before any new input.",
+          "why": "Retrieving beats re-reading for long-term retention. Fifteen spaced retrievals of the technique and the anchor across the semester compound."
+        },
+        "worked_examples": {
+          "rule": "A technique is built in front of students, narrated, before they attempt it. Session 6 builds a Buzan map on the board; Session 11 runs SCAMPER on a shared object.",
+          "why": "Novices learn more from watching a worked example than from unguided attempts; students copy what they saw done."
+        },
+        "contrasting_cases": {
+          "rule": "Before producing their own, students compare a strong and a weak example of the same artefact and write why one is better. Unit 1: problem statements and idea lists. Unit 2: two maps of one chai stall. Unit 3: two SCAMPER grids on one tiffin box.",
+          "why": "Seeing the contrast builds the sense of quality that lets a student judge their own work.",
+          "instruments": [
+            "templates/contrasting_cases_unit1.md",
+            "templates/contrasting_cases_unit2.md",
+            "visuals/contrasting_maps_unit2.svg",
+            "templates/contrasting_cases_unit3.md"
+          ]
+        },
+        "per_session_worksheets": {
+          "rule": "Every session has a printed worksheet the student holds through the making phase: recall box, the task, scaffolded space per phase, the extension, pitch prep, and an after-critique box.",
+          "why": "A paper-first course with no per-session sheet leaves students working from verbal instructions.",
+          "path": "worksheets/"
+        },
+        "early_finisher_extensions": {
+          "rule": "Every session carries an extension for the student who finishes early. It always pushes further into the same task, never onto a new one.",
+          "why": "In creative work, finishing early usually means stopping too soon."
+        },
+        "owner_check_in": {
+          "rule": "Students show the owner their converged idea after Session 5 and record the owner's exact first words. Session 6 opens on that reaction.",
+          "why": "Peer feedback all semester and stakeholder feedback only at week 15 lets wrong assumptions run for ten sessions."
+        },
+        "technique_cards": {
+          "rule": "At the end of each unit students fill a technique card: what it is, the steps, when to use it, when not to, the mistake they made, where they will use it next, and an honest can-I-do-this-yet self-check.",
+          "why": "Naming the technique and its boundaries is what makes it transfer. The card is what they will actually have in Semester III.",
+          "instrument": "templates/technique_card.md",
+          "sessions": [
+            5,
+            10,
+            15
+          ]
+        }
       }
     }
   },

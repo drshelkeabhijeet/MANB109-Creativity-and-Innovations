@@ -1,6 +1,6 @@
 {
   "schema_version": "1.3.0",
-  "lecture_uuid": "20eaf957-14b4-4328-a20b-a37452f1aa8f",
+  "lecture_uuid": "ec1c9205-b372-4775-b018-7747404e3d82",
   "course_code": "MANB109",
   "lecture_id": "LEC_02",
   "lecture_title": "The Creative Process, Start to Finish",
@@ -39,8 +39,16 @@
   ],
   "active_learning_components": [
     {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "What was Session 1's one idea? Name the four barriers we listed. What is your anchor enterprise, and what did its owner say that surprised you?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
       "type": "Warm-up: 30 Circles",
-      "duration": 10,
+      "duration": 7,
       "source": "generated",
       "desc": "Shows fluency and originality as two different things, in ninety seconds of evidence rather than a definition.",
       "language": "any"
@@ -84,9 +92,12 @@
   "materials": [
     "templates/pitch_structure.md",
     "templates/peer_critique_protocol.md",
-    "templates/idea_log.md"
+    "templates/idea_log.md",
+    "templates/contrasting_cases_unit1.md"
   ],
   "projector_required": false,
+  "early_finisher_extension": "Write the problem sentence a fifth time — from the customer's point of view instead of the owner's.",
+  "worked_example": "",
   "between_sessions": "None. You already have what you need.",
   "forward_link": {
     "reused_in": "MANB306A Agriculture Logistics & Supply Chain Management",

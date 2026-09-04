@@ -19,27 +19,27 @@ Every session closes with a pitch. `109.2` is therefore in scope in all 15.
 | 2 | The Creative Process, Start to Finish | Visit debrief. The stages from idea to implementation, and where ideas actually die | 109.1, 109.2 |
 | 3 | Breaking the Blocks | Assumption reversal and forced connections, applied to the anchor's stuck point | 109.1, 109.2 |
 | 4 | **Redesigning the Digital Front Door** *(prescribed activity)* | Brainstorm to redesign a basic mobile app or website — here, the anchor's own digital surface | 109.1, 109.2 |
-| 5 | From Many Ideas to One | Convergence: selection criteria, killing your favourite. First pitch of a single converged idea | 109.1, 109.2 |
+| 5 | From Many Ideas to One | Convergence: selection criteria, killing your favourite. First pitch of a single converged idea. **Technique card 1.** Owner sees the idea before Session 6 | 109.1, 109.2 |
 
 ## Unit 2 — Mind Mapping and Creative Thinking Techniques · 10 hours
 
 | # | Session | Core move | COs |
 |---|---|---|---|
-| 6 | Mind Mapping — The Basics | Anatomy and rules of a map; first A3 map of the anchor | 109.4, 109.2 |
+| 6 | Mind Mapping — Buzan's Laws | Opens on the owner's reaction. Buzan's laws; **worked example built on the board**; contrasting maps; first A3 map of the anchor, twice | 109.4, 109.2 |
 | 7 | Mapping to Break a Problem Down | Decomposing one real anchor problem into parts that can be acted on separately | 109.4, 109.2 |
 | 8 | Collaborative Mind Mapping | Teams map each other's anchors — seeing your business through someone else's map | 109.4, 109.2 |
 | 9 | **Mapping a Startup** *(prescribed activity)* | Mind map for a technology startup idea, breaking down the components needed to launch it | 109.4, 109.2 |
-| 10 | Reading a Map — What It Tells You | Interpreting a finished map: density, gaps, the branch nobody drew | 109.4, 109.2 |
+| 10 | Reading a Map — What It Tells You | Interpreting a finished map: density, gaps, the branch nobody drew. **Technique card 2** | 109.4, 109.2 |
 
 ## Unit 3 — SCAMPER Technique for Innovation · 10 hours
 
 | # | Session | Core move | COs |
 |---|---|---|---|
-| 11 | SCAMPER — Seven Ways to Change a Thing | The seven prompts, worked live on one familiar product | 109.3, 109.2 |
+| 11 | SCAMPER — Seven Ways to Change a Thing | The seven prompts; **worked example on a shared object**; contrasting grids; own grid | 109.3, 109.2 |
 | 12 | SCAMPER for Product Improvement | All seven prompts run against the anchor's own offering | 109.3, 109.2 |
 | 13 | Team SCAMPER | Groups apply SCAMPER to a real business or tech problem | 109.3, 109.2 |
 | 14 | **Team SCAMPER Product Redesign** *(prescribed activity)* | Teams apply SCAMPER to redesign or enhance a tech product | 109.3, 109.2 |
-| 15 | Final Pitch and the Look-Back | Portfolio pitch; week-15 idea-log look-back against week 1; findings handed back to the owner | 109.2, 109.3, 109.4 |
+| 15 | Final Pitch and the Look-Back | Portfolio pitch; week-15 idea-log look-back against week 1; **technique card 3**; findings handed back to the owner | 109.2, 109.3, 109.4 |
 
 ---
 
@@ -75,7 +75,22 @@ All three appear verbatim, each in session 4 of its unit:
 
 ---
 
+## Every session, without exception
+
+| Minutes | What |
+|---|---|
+| 0–3 | **Recall** — last session, from memory, log closed, to a partner |
+| 3–10 | Warm-up |
+| 10–25 | Input — with a **worked example** when a technique is introduced |
+| 25–85 | Making, on the **worksheet**, against the anchor. An **extension** waits for early finishers |
+| 85–110 | Critique and pitch |
+| 110–120 | Idea log |
+
 ## Between sessions
 
-Students visit or phone their anchor enterprise after Session 1 and return with answers.
+Two touchpoints with the anchor's owner, and nothing else:
+
+- **After Session 1** — visit or phone, ask the three sharpest questions.
+- **After Session 5** — show them the converged idea, write down their exact first words.
+
 No other homework is set — this is a 2-credit elective and the work happens in the room.

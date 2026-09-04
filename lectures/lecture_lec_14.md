@@ -21,7 +21,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Six Seconds"
+## 0:00 – 0:10 · Recall, then warm-up — "Six Seconds"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What survived your team's merge last session? What of yours was dropped, and were they right?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -88,6 +98,12 @@ A3. Draw the redesigned screen or front door. Mark which SCAMPER prompt produced
 | Team splits into two designs | "Build both, pitch both. Let the room choose." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Redesign it again for a customer with a three-thousand-rupee phone and one gigabyte of data a month.
 
 ---
 

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620" role="img" aria-label="Two maps of the same chai stall, side by side: a bubble diagram and a Buzan mind map">
+<title>Contrasting Cases — Two Maps of the Same Chai Stall</title>
+<defs><style>
+ .cap{font:700 20px Georgia,serif;fill:#1a1a1a;text-anchor:middle}
+ .lbl{font:700 34px Georgia,serif;fill:#1a1a1a}
+ .box{fill:#fff;stroke:#1a1a1a;stroke-width:1.5}
+ .bt{font:13px Arial,sans-serif;fill:#1a1a1a;text-anchor:middle}
+ .rl{stroke:#1a1a1a;stroke-width:1.5}
+ .br{fill:none;stroke-linecap:round}
+ .kw{font:600 15px Georgia,serif;fill:#1a1a1a}
+ .q{font:italic 15px Georgia,serif;fill:#444;text-anchor:middle}
+ .divider{stroke:#bbb;stroke-width:1;stroke-dasharray:6 6}
+</style></defs>
+<rect width="1200" height="620" fill="#fdfdfb"/>
+<text class="cap" x="600" y="34">Two maps of the same chai stall. Which is the Buzan map — and which laws does the other one break?</text>
+<line class="divider" x1="600" y1="60" x2="600" y2="560"/>
+
+<!-- ===== A: bubble diagram ===== -->
+<text class="lbl" x="40" y="100">A</text>
+<rect class="box" x="220" y="280" width="160" height="50" rx="4"/>
+<text class="bt" x="300" y="310">CHAI STALL</text>
+<!-- straight ruled spokes to boxes with sentences -->
+<line class="rl" x1="300" y1="280" x2="300" y2="150"/>
+<rect class="box" x="190" y="110" width="220" height="40" rx="4"/>
+<text class="bt" x="300" y="135">Customers who come in the morning</text>
+<line class="rl" x1="380" y1="305" x2="470" y2="200"/>
+<rect class="box" x="420" y="170" width="150" height="40" rx="4"/>
+<text class="bt" x="495" y="195">Sells tea and snacks</text>
+<line class="rl" x1="380" y1="305" x2="480" y2="400"/>
+<rect class="box" x="430" y="380" width="150" height="40" rx="4"/>
+<text class="bt" x="505" y="405">Located near the bus stand</text>
+<line class="rl" x1="220" y1="305" x2="120" y2="220"/>
+<rect class="box" x="40" y="190" width="160" height="40" rx="4"/>
+<text class="bt" x="120" y="215">Owner is Sunil</text>
+<line class="rl" x1="220" y1="305" x2="120" y2="410"/>
+<rect class="box" x="40" y="390" width="170" height="40" rx="4"/>
+<text class="bt" x="125" y="415">Open 6am to 9pm daily</text>
+<line class="rl" x1="300" y1="330" x2="300" y2="470"/>
+<rect class="box" x="200" y="470" width="200" height="40" rx="4"/>
+<text class="bt" x="300" y="495">Prices: tea 10, vada pav 15</text>
+
+<!-- ===== B: Buzan map ===== -->
+<text class="lbl" x="640" y="100">B</text>
+<!-- central image: a drawn chai glass, 3 colours -->
+<path d="M876 285 l8 60 h32 l8 -60 z" fill="#d9a441" stroke="#1a1a1a" stroke-width="2.5"/>
+<path d="M880 298 h40" stroke="#c1440e" stroke-width="3"/>
+<path d="M888 275 c-4 -10 4 -12 0 -22 M904 275 c-4 -10 4 -12 0 -22" fill="none" stroke="#1f3a5f" stroke-width="2"/>
+<!-- curved thick-to-thin branches, one word each -->
+<path class="br" d="M925 300 C 985 275, 1020 258, 1080 250" stroke="#c1440e" stroke-width="8"/>
+<text class="kw" x="1086" y="248">WHO</text>
+<path class="br" d="M1080 250 C 1115 242, 1135 232, 1170 228" stroke="#c1440e" stroke-width="3.5"/>
+<text class="kw" x="1120" y="222" style="font-size:12px">drivers</text>
+<path class="br" d="M1080 250 C 1112 258, 1134 268, 1168 272" stroke="#c1440e" stroke-width="3.5"/>
+<text class="kw" x="1120" y="288" style="font-size:12px">students</text>
+
+<path class="br" d="M925 330 C 985 358, 1020 378, 1082 392" stroke="#1f3a5f" stroke-width="8"/>
+<text class="kw" x="1088" y="396">MONEY</text>
+<path class="br" d="M1082 392 C 1112 404, 1134 416, 1168 424" stroke="#1f3a5f" stroke-width="3.5"/>
+<text class="kw" x="1120" y="440" style="font-size:12px">credit</text>
+
+<path class="br" d="M900 345 C 892 400, 880 440, 864 500" stroke="#2a6b4a" stroke-width="8"/>
+<text class="kw" x="820" y="520">WHEN</text>
+<path class="br" d="M864 500 C 848 522, 830 536, 806 548" stroke="#2a6b4a" stroke-width="3.5"/>
+<text class="kw" x="748" y="562" style="font-size:12px">6am rush</text>
+
+<path class="br" d="M876 330 C 815 358, 780 378, 718 392" stroke="#d9a441" stroke-width="8"/>
+<text class="kw" x="660" y="396">SELLS</text>
+<path class="br" d="M718 392 C 690 404, 670 416, 640 424" stroke="#d9a441" stroke-width="3.5"/>
+<text class="kw" x="632" y="440" style="font-size:12px">vada pav</text>
+
+<path class="br" d="M876 300 C 815 275, 780 258, 718 250" stroke="#7a3e8c" stroke-width="8"/>
+<text class="kw" x="668" y="248">SUNIL</text>
+
+<path class="br" d="M900 262 C 906 210, 912 178, 922 128" stroke="#8a5a2b" stroke-width="8"/>
+<text class="kw" x="928" y="122">PLACE</text>
+<path class="br" d="M922 128 C 940 112, 956 104, 980 98" stroke="#8a5a2b" stroke-width="3.5"/>
+<text class="kw" x="986" y="102" style="font-size:12px">bus stand</text>
+
+<text class="q" x="300" y="590">A — how many of Buzan's laws does this break? List them.</text>
+<text class="q" x="900" y="590">B — which laws can you see being followed? Point to each.</text>
+</svg>

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.3.0",
-  "lecture_uuid": "e04562e5-9db9-4527-9965-e4841c927f08",
+  "lecture_uuid": "c6d83d29-0ffb-49b9-9680-e3d90fd8fe26",
   "course_code": "MANB109",
   "lecture_id": "LEC_07",
   "lecture_title": "Mapping to Break a Problem Down",
@@ -39,8 +39,16 @@
   ],
   "active_learning_components": [
     {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "Say three of Buzan's laws without looking. Which one did your first map break, and what did the second map fix?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
       "type": "Warm-up: Map Something Complicated",
-      "duration": 10,
+      "duration": 7,
       "source": "generated",
       "desc": "Practises the laws on something with no emotional weight before turning them on the anchor's real problem.",
       "language": "any"
@@ -88,6 +96,8 @@
     "templates/mind_map_canvas.md"
   ],
   "projector_required": false,
+  "early_finisher_extension": "Map the same problem from the customer's side. Are the causes the same ones?",
+  "worked_example": "",
   "between_sessions": "None.",
   "forward_link": {
     "reused_in": "MANB306A Agriculture Logistics & Supply Chain Management",

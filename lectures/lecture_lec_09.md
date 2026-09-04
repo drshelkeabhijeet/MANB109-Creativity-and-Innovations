@@ -21,7 +21,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "What Must Exist"
+## 0:00 – 0:10 · Recall, then warm-up — "What Must Exist"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What branch did your team draw on your anchor that you would not have drawn yourself?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -88,6 +98,12 @@ Circle the two thinnest branches. Those are what you have not thought about — 
 | Copying the board list as branches | "Those are the buckets. What goes inside yours specifically?" |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Take your thinnest branch and grow it three levels. What do you now need to find out?
 
 ---
 

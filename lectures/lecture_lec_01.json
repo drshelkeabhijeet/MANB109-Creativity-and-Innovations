@@ -42,12 +42,19 @@
   "pre_requisites": [],
   "active_learning_components": [
     {
-      "type": "Warm-up: The Worst Possible Idea",
-      "duration": 10,
+      "type": "Opening question",
+      "duration": 3,
       "source": "generated",
-      "desc": "Teams of four generate the worst possible ideas for a familiar prompt, then invert their worst one to find the good idea inside it. First public act of the semester is deliberately being wrong, which is the safest entry available.",
-      "grouping": "teams_of_four",
-      "language": "any"
+      "language": "any",
+      "desc": "Silent, written, never read aloud: the last time you had an idea and did not say it — what stopped you? Primes the barrier theme with the student's own evidence. From Session 2 this slot is retrieval practice.",
+      "rationale": "No prior session to retrieve, so the slot primes instead."
+    },
+    {
+      "type": "Warm-up: The Worst Possible Idea",
+      "duration": 7,
+      "source": "generated",
+      "language": "any",
+      "desc": "Teams of four generate the worst possible ideas for a familiar prompt, then invert their worst one. First public act of the semester is deliberately being wrong."
     },
     {
       "type": "Anchor enterprise selection",
@@ -102,5 +109,6 @@
     "reused_in": "MANB307A Case Studies in Agri-Business Management",
     "say": "The twenty-questions habit is the move you will use when you open a case for the first time. A case is just a business whose owner is not in the room to answer you."
   },
-  "readings": []
+  "readings": [],
+  "early_finisher_extension": "Write questions 21 to 30. The good ones are hiding after twenty."
 }

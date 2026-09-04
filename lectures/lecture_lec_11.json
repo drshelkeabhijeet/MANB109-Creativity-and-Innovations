@@ -1,6 +1,6 @@
 {
   "schema_version": "1.3.0",
-  "lecture_uuid": "f3739f76-84c9-4975-bcd5-49e4e9501fe0",
+  "lecture_uuid": "4f58d7d1-49c9-4e7b-b2bc-59a6e9d3adff",
   "course_code": "MANB109",
   "lecture_id": "LEC_11",
   "lecture_title": "SCAMPER — Seven Ways to Change a Thing",
@@ -39,8 +39,16 @@
   ],
   "active_learning_components": [
     {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "What did laying out all four maps reveal about where your attention had been? Which branch had you avoided?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
       "type": "Warm-up: Change the Chai",
-      "duration": 10,
+      "duration": 7,
       "source": "generated",
       "desc": "Runs the full method in three and a half minutes on something with no stakes, so the structure is familiar before it meets the anchor.",
       "language": "any"
@@ -85,9 +93,12 @@
     "templates/pitch_structure.md",
     "templates/peer_critique_protocol.md",
     "templates/idea_log.md",
-    "templates/scamper_grid.md"
+    "templates/scamper_grid.md",
+    "templates/contrasting_cases_unit3.md"
   ],
   "projector_required": false,
+  "early_finisher_extension": "Run SCAMPER on SCAMPER. What would you Eliminate from the method itself?",
+  "worked_example": "",
   "between_sessions": "None.",
   "forward_link": {
     "reused_in": "MANB304A Agri-Marketing",

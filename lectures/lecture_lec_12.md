@@ -20,7 +20,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "What Could They Stop Doing"
+## 0:00 – 0:10 · Recall, then warm-up — "What Could They Stop Doing"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> Say the seven SCAMPER prompts in order. Which was hardest for you, and why might that be?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -85,6 +95,12 @@ Two surviving ideas. For each: what changes on Monday morning, and what does the
 | Reverts to their Session 5 idea for all seven rows | "Set that aside for twenty minutes. What else does the grid give you?" |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Take your best Eliminate idea and run all seven prompts on it. Second-order ideas are where the surprises are.
 
 ---
 

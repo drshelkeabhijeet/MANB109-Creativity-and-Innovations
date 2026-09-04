@@ -18,8 +18,9 @@ prescribed syllabus are in place; session content is not yet generated.
 | `syllabus_manb109.json` | Per-session learning objectives and studio activities |
 | `kb/` | Ingestion sandbox — drop source material here before generating |
 | `lectures/` `slides/` | Generated session content and decks |
-| `templates/` | Authored studio instruments — anchor brief, critique protocol, idea log, pitch structure, facilitator guide template |
-| `worksheets/` `visuals/` | Per-session sheets and room posters (generated) |
+| `templates/` | 11 authored studio instruments — anchor brief, critique protocol, idea log, pitch structure, Buzan canvas, SCAMPER grid, technique card, three contrasting-cases sheets, facilitator template |
+| `worksheets/` | 15 per-session student sheets — what the student holds through the making phase |
+| `visuals/` | 4 SVG diagrams and 4 generated images |
 
 ## Status
 
@@ -67,6 +68,10 @@ A studio course, not a lecture course. The delivery model is recorded in
   10 idea log. Never more than 15 continuous minutes of facilitator talk.
 - **Paper first, software second** — nothing depends on a projector or a connection.
 - **Feedback without grading** — a peer critique protocol and an ungraded idea log.
+- **Seven learning-science moves built in** — retrieval practice every session, worked examples
+  before technique practice, contrasting cases before producing, per-session worksheets,
+  early-finisher extensions, an owner check-in after Session 5, and technique cards at each
+  unit's end.
 
 Five studio instruments in [`templates/`](templates/) are authored rather than generated and
 should not be overwritten.

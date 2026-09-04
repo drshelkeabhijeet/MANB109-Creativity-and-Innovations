@@ -22,7 +22,17 @@ Copy this structure for `lectures/lecture_lec_NN.md`. Do not replace it with lec
 
 ---
 
-## 0:00 – 0:10 · Warm-up
+## 0:00 – 0:10 · Recall, then warm-up
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+> [Two or three questions about last session and the anchor, answered aloud to a partner]
+
+Three minutes. Do not correct anyone — the effort of retrieving is the point, not accuracy.
+Retrieval from memory is what moves last session's learning into long-term memory; rereading
+the log does not. Every session opens this way from Session 2.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do:** [the exercise, stated as an instruction you can read aloud]
 
@@ -36,6 +46,9 @@ Copy this structure for `lectures/lecture_lec_NN.md`. Do not replace it with lec
 > [a single sentence]
 
 **Say roughly this:** [3–5 short beats, not a script]
+
+**Worked example, if the session introduces a technique:** build one in front of them, badly,
+narrating each rule as you apply it. Students copy what they saw done, not what they were told.
 
 **Do not:** cover the full theory. Fifteen minutes, then stop. If it will not fit in fifteen
 minutes it belongs in the making phase as a discovery, not here as a telling.
@@ -62,6 +75,10 @@ minutes it belongs in the making phase as a discovery, not here as a telling.
 
 **Do not** solve it for them. Ask a question and walk away.
 
+**If someone finishes early:** in creative work that usually means they stopped too soon.
+Hand them the extension printed on their worksheet — it always pushes further into the same
+task, never onto a new one.
+
 ## 1:25 – 1:50 · Critique and pitch
 
 Run `templates/peer_critique_protocol.md`. Pitches in **English**, three minutes, structure
@@ -75,6 +92,13 @@ for time, the CO is not met.
 Students fill `templates/idea_log.md` for this session. Silent. Do not talk over it.
 
 ---
+
+## Materials the student holds
+
+Every session has a **worksheet** (`worksheets/worksheet_lec_NN.md`) — recall box, the task,
+scaffolded space for each making phase, the extension, pitch prep, and an after-critique box.
+Sessions that introduce a technique also use a **contrasting-cases sheet** so students see a
+strong and a weak example before they produce their own.
 
 ## Forward link — say it out loud
 

@@ -20,7 +20,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Map Something Complicated"
+## 0:00 – 0:10 · Recall, then warm-up — "Map Something Complicated"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> Say three of Buzan's laws without looking. Which one did your first map break, and what did the second map fix?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -85,6 +95,12 @@ Trade maps with a partner. Find a leaf they circled — and one they did not. Ex
 | Central image is the business again | "The centre is the problem today. Redraw the middle." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Map the same problem from the customer's side. Are the causes the same ones?
 
 ---
 

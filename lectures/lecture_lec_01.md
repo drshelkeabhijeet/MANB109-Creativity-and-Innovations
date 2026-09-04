@@ -21,7 +21,21 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "The Worst Possible Idea"
+## 0:00 – 0:10 · Opening, then warm-up — "The Worst Possible Idea"
+
+### 0:00 – 0:03 · Before we start — a question, not recall
+
+There is no previous session to recall, so the opening three minutes do a different job.
+Said silently, written in the worksheet, never read aloud:
+
+> Think of the last time you had an idea in a meeting, a class, or at home — and did not say
+> it. What stopped you? One line.
+
+Do not collect it. It primes the session's real subject — the barrier — with the student's own
+evidence, before you have named it. From Session 2 onward this slot is **retrieval practice**:
+three minutes recalling last session from memory, log closed, before any new input.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.** Groups of four. Read this out:
 
@@ -124,6 +138,12 @@ Then each student marks their three sharpest — these are the ones they will ac
 | Two students pick the same shop | Fine — let them. They will produce different maps, and that comparison is useful in Unit 2. |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Write questions 21 to 30. The good ones are hiding after twenty.
 
 ---
 

@@ -20,7 +20,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "The Silent Map"
+## 0:00 – 0:10 · Recall, then warm-up — "The Silent Map"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What was the actionable leaf you found on your problem map? Which leaf did your partner find that you had not?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -85,6 +95,12 @@ Add that branch to your own map from Session 6 or 7, in a different colour so yo
 | Team finishes in three minutes | "You have four more. Take the thinnest branch and grow it." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Map your own anchor as a stranger would — only what can be seen from the street.
 
 ---
 

@@ -19,7 +19,17 @@
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Forced Connection"
+## 0:00 – 0:10 · Recall, then warm-up — "Forced Connection"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> Which stage is your owner stuck at? What was your evidence? Say the third version of your problem sentence.
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -86,6 +96,12 @@ Pick the reversal you least want to be true. Sketch, in words or a rough drawing
 | Picks a safe reversal for the last step | "That one is comfortable. Which one did you skip?" |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Take your scariest reversal. List three things that would have to be true for it to work.
 
 ---
 

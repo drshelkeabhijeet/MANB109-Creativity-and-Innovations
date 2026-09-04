@@ -14,13 +14,24 @@
 - [ ] Printed, one per student: `templates/pitch_structure.md`
 - [ ] Printed, one per student: `templates/peer_critique_protocol.md`
 - [ ] Printed, one per student: `templates/idea_log.md`
+- [ ] Printed, one per student: `templates/contrasting_cases_unit1.md`
 - [ ] A3 sheets, one per student per map; coloured markers or pens (at least three colours each)
 - [ ] Board or wall space
 - [ ] *No projector required.*
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "The Worst Website"
+## 0:00 – 0:10 · Recall, then warm-up — "The Worst Website"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> Name one assumption you reversed last session. What did the business look like when the reversal was true?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -89,6 +100,12 @@ Each student takes one idea — yours or a teammate's — and sketches the redes
 | Sketching a screen with forty features | "A customer gives this six seconds. Cross out everything they do not need in six seconds." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Sketch the front door again for a customer who cannot read. What changes?
 
 ---
 

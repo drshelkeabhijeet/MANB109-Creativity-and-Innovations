@@ -1,6 +1,6 @@
 {
   "schema_version": "1.3.0",
-  "lecture_uuid": "77d43ab0-2f33-4f78-9e90-ae5bb1c285a9",
+  "lecture_uuid": "b264356e-46c0-4ffd-85e3-1cbe381139e0",
   "course_code": "MANB109",
   "lecture_id": "LEC_10",
   "lecture_title": "Reading a Map — What It Tells You",
@@ -39,8 +39,16 @@
   ],
   "active_learning_components": [
     {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "What were your startup map's two thinnest branches? What question did you write for each?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
       "type": "Warm-up: Read a Stranger's Map",
-      "duration": 10,
+      "duration": 7,
       "source": "generated",
       "desc": "Models the whole session in two minutes, on a real artefact rather than an example.",
       "language": "any"
@@ -85,9 +93,12 @@
     "templates/pitch_structure.md",
     "templates/peer_critique_protocol.md",
     "templates/idea_log.md",
-    "templates/mind_map_canvas.md"
+    "templates/mind_map_canvas.md",
+    "templates/technique_card.md"
   ],
   "projector_required": false,
+  "early_finisher_extension": "Number your BOIs by importance, then again by ease. Where do the two orders disagree?",
+  "worked_example": "",
   "between_sessions": "None.",
   "forward_link": {
     "reused_in": "MANB307A Case Studies in Agri-Business Management",

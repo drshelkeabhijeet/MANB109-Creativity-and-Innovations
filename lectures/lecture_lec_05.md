@@ -13,13 +13,24 @@
 - [ ] Printed, one per student: `templates/pitch_structure.md`
 - [ ] Printed, one per student: `templates/peer_critique_protocol.md`
 - [ ] Printed, one per student: `templates/idea_log.md`
+- [ ] Printed, one per student: `templates/technique_card.md`
 - [ ] A3 sheets and markers
 - [ ] Board or wall space
 - [ ] *No projector required.*
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Kill Your Darling"
+## 0:00 – 0:10 · Recall, then warm-up — "Kill Your Darling"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What did your front-door audit find? What did you sketch, and which teammate's idea did you borrow?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -85,6 +96,12 @@ Pick one. Five sentences: what it is, who it helps, why now, what it costs, what
 
 **Do not solve it for them.** Ask a question and walk away.
 
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Write the five-sentence case for the idea you killed. If it comes out stronger, swap.
+
 ---
 
 ## 1:25 – 1:50 · Critique and pitch
@@ -113,7 +130,7 @@ Students fill the Session 5 page of `templates/idea_log.md`. Silent — do not t
 
 ## Before Session 6
 
-None.
+**Show your owner the five-sentence case before Session 6.** Write down their exact first reaction — the words they used, not your summary. That reaction is Session 6's opening.
 
 ---
 

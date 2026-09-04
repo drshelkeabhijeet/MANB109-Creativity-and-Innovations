@@ -13,13 +13,24 @@
 - [ ] Printed, one per student: `templates/pitch_structure.md`
 - [ ] Printed, one per student: `templates/peer_critique_protocol.md`
 - [ ] Printed, one per student: `templates/idea_log.md`
+- [ ] Printed, one per student: `templates/technique_card.md`
 - [ ] A3 sheets and markers
 - [ ] Board or wall space
 - [ ] *No projector required.*
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Read Yourself From Week One"
+## 0:00 – 0:10 · Recall, then warm-up — "Read Yourself From Week One"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> Which prompt produced your team's favourite redesign change? And — without looking — what did you write about your anchor in Session 1?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -84,6 +95,12 @@ Read the hand-back aloud to a partner as if they were the owner. Partner asks on
 | "Nothing changed since week one" | "Read Box 4 again. You wrote 'they need a website'. Do you still think that?" |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Write the hand-back a second time at half the length. It gets better, not worse.
 
 ---
 

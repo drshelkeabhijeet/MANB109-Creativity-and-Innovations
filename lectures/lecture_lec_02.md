@@ -13,13 +13,24 @@
 - [ ] Printed, one per student: `templates/pitch_structure.md`
 - [ ] Printed, one per student: `templates/peer_critique_protocol.md`
 - [ ] Printed, one per student: `templates/idea_log.md`
+- [ ] Printed, one per student: `templates/contrasting_cases_unit1.md`
 - [ ] A3 sheets and markers
 - [ ] Board or wall space
 - [ ] *No projector required.*
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "30 Circles"
+## 0:00 – 0:10 · Recall, then warm-up — "30 Circles"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What was Session 1's one idea? Name the four barriers we listed. What is your anchor enterprise, and what did its owner say that surprised you?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -84,6 +95,12 @@ Write the problem in one sentence. Then rewrite it more specifically. Then again
 | Locates the stall at every stage at once | "Pick the one that, if fixed, makes the others easier." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Write the problem sentence a fifth time — from the customer's point of view instead of the owner's.
 
 ---
 

@@ -14,13 +14,24 @@
 - [ ] Printed, one per student: `templates/peer_critique_protocol.md`
 - [ ] Printed, one per student: `templates/idea_log.md`
 - [ ] Printed, one per student: `templates/mind_map_canvas.md`
+- [ ] Printed, one per student: `templates/technique_card.md`
 - [ ] A3 sheets, one per student per map; coloured markers or pens (at least three colours each)
 - [ ] Board or wall space
 - [ ] *No projector required.*
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Read a Stranger's Map"
+## 0:00 – 0:10 · Recall, then warm-up — "Read a Stranger's Map"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What were your startup map's two thinnest branches? What question did you write for each?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -85,6 +96,12 @@ Not what the business is — what your maps reveal about the business and about 
 | Cannot number BOIs | "Which one, fixed, makes the others easier? That is number one." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Number your BOIs by importance, then again by ease. Where do the two orders disagree?
 
 ---
 

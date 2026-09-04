@@ -14,13 +14,25 @@
 - [ ] Printed, one per student: `templates/peer_critique_protocol.md`
 - [ ] Printed, one per student: `templates/idea_log.md`
 - [ ] Printed, one per student: `templates/mind_map_canvas.md`
+- [ ] Printed, one per student: `templates/contrasting_cases_unit2.md`
+- [ ] Printed, one per student: `visuals/contrasting_maps_unit2.svg`
 - [ ] A3 sheets, one per student per map; coloured markers or pens (at least three colours each)
 - [ ] Board or wall space
 - [ ] *No projector required.*
 
 ---
 
-## 0:00 – 0:10 · Warm-up — "Map Your Morning — With No Rules"
+## 0:00 – 0:10 · Recall, then warm-up — "Map Your Morning — With No Rules"
+
+### 0:00 – 0:03 · Recall — from memory, log closed
+
+Log closed, from memory, said aloud to a partner:
+
+> What idea did you commit to in Session 5? What were the three questions you scored it against?
+
+Three minutes. Do not correct anyone; the effort of retrieving is the point, not accuracy. Retrieval from memory is what moves last session's learning from short-term to long-term — rereading the log does not.
+
+### 0:03 – 0:10 · Warm-up
 
 **What you do.**
 
@@ -44,6 +56,8 @@ Collect nothing. Do not comment. Move straight into the input; the maps come bac
 2. **The laws of emphasis.** A central *image*, not a word. Three colours minimum in that image. Branch thickness heaviest at the centre and thinning outward. Varying letter size.
 3. **The laws of clarity.** ONE key word per line. Print, do not join up. The word sits *on* the line. Line length equals word length. Curved branches, never straight rulered ones. Paper **landscape**.
 4. **Basic Ordering Ideas.** The main branches off the centre are your BOIs — the four to seven big buckets. Get those right and the rest of the map organises itself.
+
+**Build one on the board while they watch.** A chai stall. Draw a glass in the middle — badly — and say why it is a picture and not a word. Curve the first branch and say why it is not ruled. Write one word on it and say why not three. Two minutes, narrating each law as you apply it. This is the single most important two minutes of Unit 2: students copy what they saw done, not what they were told.
 
 **Do not** run past fifteen minutes. If it will not fit, move it into the making phase as something students discover rather than something you tell them.
 
@@ -88,6 +102,12 @@ Second map, fresh sheet. The second map is always better because the BOIs are no
 | Fifteen main branches | "Those are sub-branches. Which four to seven buckets do they belong under? Those are your BOIs." |
 
 **Do not solve it for them.** Ask a question and walk away.
+
+### If someone finishes early
+
+In creative work, finishing early usually means stopping too soon. Hand them this:
+
+> Redraw your second map with a different central image. Does the branch structure hold?
 
 ---
 
