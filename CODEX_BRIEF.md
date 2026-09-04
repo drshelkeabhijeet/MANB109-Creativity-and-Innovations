@@ -34,6 +34,10 @@ The course profile is **complete**. The syllabus is three units, 2 credits, 0:0:
 30 contact hours (10 per unit), delivered as 15 weekly 120-minute studio sessions,
 five per unit. There is no Unit 4.
 
+This course carries **no assessment plan** by faculty decision. The three prescribed
+hands-on activities are teaching activities, not graded components. Generate no rubrics,
+weights, or graded artefacts.
+
 Steps 1 and 2 are **done**. Start at **Step 3**.
 
 Two things in `course_profile.json` are generated rather than prescribed, and are marked
@@ -42,7 +46,6 @@ as such. Do not silently rewrite them:
 | Item | State |
 |---|---|
 | CO-PO matrix, `po_mapping`, `mapping_justification` | Generated, pending faculty sign-off |
-| `assessment_co_po_alignment` | Every row marked `PROPOSED`; weights sum to 100% |
 | `blooms_level` for 109.2 | Mapped `create` from the non-standard prescribed verb "Develop" |
 | Reference list in `course_profile.md` | Suggested, not prescribed |
 
@@ -100,12 +103,15 @@ Marathwada. Use local, low-cost examples (a kirana shop, an SHG, a coaching clas
 workshop in Chhatrapati Sambhajinagar), not Silicon Valley case studies. Mind maps and
 SCAMPER should be taught with pen and paper first, software second.
 
-## Step 5 — `slides/`, `rubrics/`, `templates/`, `worksheets/`, `visuals/`
+## Step 5 — `slides/`, `templates/`, `worksheets/`, `visuals/`
 
 - **slides/** — `slides_lec_NN.{md,json,html,pptx}`. Carry over the `defensive_guardrails`
   from MANB307M: max 115 words and 8 bullets per slide, ≥40% negative space, min 14pt font.
   A studio session needs few slides — brief, then get out of the way.
-- **rubrics/** — one per assessment component from Step 1's assessment plan.
+- **rubrics/** — **skip.** This course carries no assessment plan by faculty decision;
+  `assessment_co_po_alignment` is empty and `attainment_targets` is null. Leave `rubrics/`
+  and `assessments/` empty. Do not invent graded components or weights. If an assessment
+  scheme is attached later, generate rubrics from it then.
 - **templates/** — student-facing worksheets: a mind-map canvas, a SCAMPER grid
   (7 prompts × idea), a storytelling/pitch structure sheet, an idea-log.
 - **worksheets/** — per-session exercise sheets, printable, usable offline.

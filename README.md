@@ -13,11 +13,11 @@ prescribed syllabus are in place; session content is not yet generated.
 |---|---|
 | `academia.yaml` | Workspace manifest — course identity, pedagogy, accreditation |
 | `project.json` | Build state and telemetry |
-| `course_profile.{md,json}` | COs, POs, CO-PO matrix, syllabus, assessment plan |
+| `course_profile.{md,json}` | COs, POs, CO-PO matrix, syllabus |
 | `syllabus_manb109.json` | Per-session learning objectives and studio activities |
 | `kb/` | Ingestion sandbox — drop source material here before generating |
 | `lectures/` `slides/` | Generated session content and decks |
-| `rubrics/` `templates/` `worksheets/` `visuals/` | Student-facing and assessment material |
+| `templates/` `worksheets/` `visuals/` | Student-facing studio material |
 
 ## Status
 
@@ -25,14 +25,17 @@ Course profile **complete**. Three units, 2 credits, L:T:P 0:0:2, 30 contact hou
 (10 per unit), delivered as 15 weekly 120-minute studio sessions. All four COs and all
 three units are transcribed verbatim from the university-prescribed syllabus.
 
-Session content (`lectures/`, `slides/`, `rubrics/`, `templates/`, `worksheets/`,
-`visuals/`) is **not yet generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
+Session content (`lectures/`, `slides/`, `templates/`, `worksheets/`, `visuals/`) is
+**not yet generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
 
 ### Pending faculty sign-off
 
-The CO-PO articulation matrix, the assessment plan (every row marked `PROPOSED`), the
-reference list, and the Bloom's mapping for 109.2 are generated rather than prescribed.
-They are marked as such in `course_profile.json` under `_scaffold_notes`.
+The CO-PO articulation matrix, the reference list, and the Bloom's mapping for 109.2 are
+generated rather than prescribed. They are marked as such in `course_profile.json` under
+`_scaffold_notes`.
+
+This course carries **no assessment plan** by faculty decision — `assessment_co_po_alignment`
+is empty, `attainment_targets` is null, and `rubrics/` and `assessments/` stay empty.
 
 Two findings worth reading before sign-off:
 

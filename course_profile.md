@@ -137,26 +137,6 @@
 
 ---
 
-## Assessment Plan
-
-> **PROPOSED — not prescribed.** The source syllabus carries no assessment scheme. Every row
-> below is a proposal to be confirmed against the university scheme before use. Weights sum
-> to 100%.
-
-| Assessment | Weight | COs Mapped |
-|---|---|---|
-| Studio Participation and Creative Engagement | 10% | 109.1 |
-| Unit 1 Artefact: App/Website Redesign Brainstorm | 20% | 109.1, 109.2 |
-| Unit 2 Artefact: Technology Startup Mind Map | 20% | 109.4, 109.2 |
-| Unit 3 Artefact: Team SCAMPER Product Redesign | 25% | 109.3, 109.2 |
-| Final Creative Portfolio and Pitch | 25% | 109.2, 109.3, 109.4 |
-
-Each of the three prescribed hands-on activities becomes a graded artefact, so nothing in the
-syllabus goes unassessed. The final portfolio and pitch carries the primary attainment evidence
-for **109.2**.
-
----
-
 ## Reference Books
 
 > **SUGGESTED — not prescribed.** The source syllabus carries no reading list. These are

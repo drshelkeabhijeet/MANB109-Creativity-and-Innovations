@@ -165,114 +165,10 @@
       "PO5": 6,
       "PO6": 10
     },
-    "attainment_targets": {
-      "PO1_Strategic_Thinking": {
-        "target": "60%",
-        "measured_by": "109.1 + 109.3 + 109.4 weighted average"
-      },
-      "PO2_Analytical_Problem_Solving": {
-        "target": "60%",
-        "measured_by": "109.3 + 109.4 weighted average"
-      },
-      "PO3_Digital_Fluency": {
-        "target": "60%",
-        "measured_by": "109.1 + 109.2 + 109.3 + 109.4 weighted average"
-      },
-      "PO4_Ethical_Leadership": {
-        "target": null,
-        "measured_by": null,
-        "note": "Not mapped by this course. See _scaffold_notes.po4_coverage."
-      },
-      "PO5_Communication": {
-        "target": "70%",
-        "measured_by": "109.2 + 109.3 + 109.4 weighted average"
-      },
-      "PO6_Entrepreneurial_Application": {
-        "target": "70%",
-        "measured_by": "109.1 + 109.2 + 109.3 + 109.4 weighted average"
-      }
-    }
+    "attainment_targets": null,
+    "attainment_targets_note": "Not stated. Attainment targets are measured through assessment components, and this course carries no assessment plan in its workspace by faculty decision. Add targets here if an assessment scheme is later attached."
   },
-  "assessment_co_po_alignment": [
-    {
-      "assessment": "Studio Participation and Creative Engagement",
-      "weight": "10%",
-      "mapped_cos": [
-        "109.1"
-      ],
-      "mapped_pos": [
-        "PO1",
-        "PO6"
-      ],
-      "status": "PROPOSED",
-      "justification": "Continuous assessment of engagement in brainstorming and studio exercises across all three units."
-    },
-    {
-      "assessment": "Unit 1 Artefact: App/Website Redesign Brainstorm",
-      "weight": "20%",
-      "mapped_cos": [
-        "109.1",
-        "109.2"
-      ],
-      "mapped_pos": [
-        "PO1",
-        "PO3",
-        "PO5",
-        "PO6"
-      ],
-      "status": "PROPOSED",
-      "justification": "Prescribed Unit 1 hands-on activity, graded on the creative solution and its presentation."
-    },
-    {
-      "assessment": "Unit 2 Artefact: Technology Startup Mind Map",
-      "weight": "20%",
-      "mapped_cos": [
-        "109.4",
-        "109.2"
-      ],
-      "mapped_pos": [
-        "PO2",
-        "PO3",
-        "PO5",
-        "PO6"
-      ],
-      "status": "PROPOSED",
-      "justification": "Prescribed Unit 2 hands-on activity, graded on decomposition quality and visual clarity."
-    },
-    {
-      "assessment": "Unit 3 Artefact: Team SCAMPER Product Redesign",
-      "weight": "25%",
-      "mapped_cos": [
-        "109.3",
-        "109.2"
-      ],
-      "mapped_pos": [
-        "PO1",
-        "PO2",
-        "PO3",
-        "PO5",
-        "PO6"
-      ],
-      "status": "PROPOSED",
-      "justification": "Prescribed Unit 3 hands-on activity, graded on systematic SCAMPER application and team defence."
-    },
-    {
-      "assessment": "Final Creative Portfolio and Pitch",
-      "weight": "25%",
-      "mapped_cos": [
-        "109.2",
-        "109.3",
-        "109.4"
-      ],
-      "mapped_pos": [
-        "PO1",
-        "PO5",
-        "PO6"
-      ],
-      "status": "PROPOSED",
-      "justification": "Consolidated portfolio of studio work with a storytelling pitch; the primary attainment evidence for 109.2."
-    }
-  ],
+  "assessment_co_po_alignment": [],
   "syllabus_outline": [
     {
       "unit_uuid": "7b87d0ee-6ae0-43e4-8d70-98445787b928",
@@ -325,7 +221,6 @@
     ],
     "generated_pending_faculty_signoff": [
       "co_po_articulation_matrix and all po_mapping / mapping_justification",
-      "assessment_co_po_alignment (every row marked PROPOSED)",
       "hours_allocated (30 hours divided evenly across 3 units)",
       "blooms_level for 109.2",
       "session_plan"
@@ -333,9 +228,9 @@
     "co_109_2_attainment": "No unit names storytelling or visual presentation. With only three units this is a permanent gap in the prescribed syllabus, not a missing page. 109.2 is therefore attained through the presentation component of all three prescribed hands-on activities and the final pitch, and Unit 2's mind mapping is itself a visual tool. This is a defensible reading, but it should be recorded with the Board of Studies rather than left implicit.",
     "po4_coverage": "PO4 (Ethical, Social and Inclusive Leadership) is mapped 0 by all four COs. Nothing in the prescribed syllabus addresses it, and inflating a mapping to fill the column would misstate attainment. PO coverage closes at programme level, not course level, so a 2-credit elective with no PO4 mapping is defensible - but confirm before submission.",
     "open_items": [
-      "Reference book list: suggestions added to course_profile.md, none prescribed - confirm with BoS.",
-      "Assessment weights are proposed, not prescribed - confirm against the university scheme."
-    ]
+      "Reference book list: suggestions in course_profile.md, none prescribed - confirm with BoS."
+    ],
+    "assessment": "Out of scope for this workspace by faculty decision. assessment_co_po_alignment is intentionally empty and attainment_targets is null. The three prescribed hands-on activities remain in syllabus_outline as teaching activities, not graded components."
   },
   "session_plan": {
     "total_sessions": 15,
