@@ -14,6 +14,7 @@ prescribed syllabus are in place; session content is not yet generated.
 | `academia.yaml` | Workspace manifest — course identity, pedagogy, accreditation |
 | `project.json` | Build state and telemetry |
 | `course_profile.{md,json}` | COs, POs, CO-PO matrix, syllabus |
+| `TEACHING_PLAN.md` | The 15-session map: arc, CO coverage, where each prescribed activity lands |
 | `syllabus_manb109.json` | Per-session learning objectives and studio activities |
 | `kb/` | Ingestion sandbox — drop source material here before generating |
 | `lectures/` `slides/` | Generated session content and decks |
@@ -26,7 +27,10 @@ Course profile **complete**. Three units, 2 credits, L:T:P 0:0:2, 30 contact hou
 (10 per unit), delivered as 15 weekly 120-minute studio sessions. All four COs and all
 three units are transcribed verbatim from the university-prescribed syllabus.
 
-Session content (`lectures/`, `slides/`, `worksheets/`, `visuals/`) is **not yet generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
+[`TEACHING_PLAN.md`](TEACHING_PLAN.md) maps all 15 sessions. **Session 1 is written** as a
+sample facilitator guide (`lectures/lecture_lec_01.{md,json}`) for review before the
+remaining 14 are generated. Sessions 2–15, slides, worksheets and visuals are **not yet
+generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
 
 ### Pending faculty sign-off
 
