@@ -29,6 +29,93 @@
       "type": "AICTE / NEP 2020",
       "nep_2020_aligned": true,
       "aicte_aligned": true
+    },
+    "delivery_model": {
+      "format": "studio_workshop",
+      "principle": "A creativity course fails when it is taught as content. SCAMPER and mind mapping are procedures students can define without ever using. Every session is therefore built around making something, not covering something.",
+      "anchor_client": {
+        "rule": "Each student selects ONE real local enterprise in week 1 and works it through all three units: Unit 1 brainstorms its problem, Unit 2 mind-maps it, Unit 3 SCAMPERs its offering. Same object, three lenses.",
+        "why": "Three disconnected exercises make students start cold three times. One anchor lets them watch their own thinking deepen, and they finish with something real to hand back.",
+        "syllabus_compliance": "The prescribed activities name a mobile app or website. The anchor enterprise's digital surface - its WhatsApp catalogue, Google Business listing or simple site - is that app or website, so the anchor stays inside the prescribed wording.",
+        "examples": [
+          "family kirana shop",
+          "neighbourhood workshop or garage",
+          "self-help group",
+          "coaching class",
+          "small clinic or diagnostic lab",
+          "farm produce seller or FPO outlet"
+        ]
+      },
+      "language_policy": {
+        "rule": "Diverge in Marathi or Hindi. Converge and pitch in English.",
+        "why": "Creative fluency is language-bound. Forcing English at the idea-generation stage suppresses ideas before they exist. Separating the stages protects fluency without giving up the placement-relevant English pitch.",
+        "applies_to": [
+          "brainstorming",
+          "mind map labels",
+          "idea log",
+          "peer critique"
+        ]
+      },
+      "session_rhythm_minutes": {
+        "warm_up": 10,
+        "input": 15,
+        "making": 60,
+        "critique_and_pitch": 25,
+        "idea_log": 10,
+        "rule": "Never more than 15 continuous minutes of facilitator talk in a 120-minute block."
+      },
+      "psychological_safety": {
+        "rule": "Unit 1 teaches barriers to creativity and mental blocks; the room has to practise what the unit preaches. Fear of looking foolish is the binding constraint on a creativity classroom, not lack of technique.",
+        "mechanisms": [
+          "Open with a deliberately-bad-ideas warm-up so the first public act is a safe one.",
+          "Weeks 1-2 are team-attributed only; no individual is singled out before trust exists.",
+          "Critique targets the idea, never the person, using the fixed protocol in templates/."
+        ]
+      },
+      "pitch_spine": {
+        "rule": "Every one of the 15 sessions ends with a share-out of roughly 3 minutes.",
+        "why": "Fifteen sessions of standing up and explaining an idea is fifteen repetitions of the single most placement-relevant skill this course can deliver, and it is the only attainment path for CO 109.2."
+      },
+      "tool_spiral": {
+        "rule": "A tool does not retire when its unit ends. Mind mapping stays in use through Unit 3; brainstorming norms from Unit 1 hold all semester.",
+        "why": "Rigid unit blocks let students treat each technique as finished and forgettable."
+      },
+      "materials_constraint": {
+        "rule": "Paper first, software second.",
+        "why": "Assume no laptop, no reliable projector and patchy data. A3 sheets for mind maps, a printed grid for SCAMPER. Software is enrichment, never the medium."
+      },
+      "feedback_without_grading": {
+        "rule": "This course has no assessment plan, but feedback is not grading. A fixed peer critique protocol runs in every session and an ungraded idea log runs all semester.",
+        "instruments": [
+          "templates/peer_critique_protocol.md",
+          "templates/idea_log.md"
+        ]
+      },
+      "forward_links": {
+        "rule": "MANB109 is Semester I and its tools are reused in Semester III. Name the connection aloud in class - signposted transfer is retained, unsignposted transfer usually is not.",
+        "links": [
+          {
+            "tool": "Mind mapping",
+            "reused_in": "MANB307A Case Studies in Agri-Business Management",
+            "as": "decomposing a case before analysis"
+          },
+          {
+            "tool": "SCAMPER",
+            "reused_in": "MANB304A Agri-Marketing",
+            "as": "generating value-addition options for a commodity"
+          },
+          {
+            "tool": "Storytelling and visual pitch",
+            "reused_in": "MANB307M Digital Marketing",
+            "as": "pitching a campaign to a client"
+          },
+          {
+            "tool": "Structured problem decomposition",
+            "reused_in": "MANB306A Agriculture Logistics & SCM",
+            "as": "mapping a supply chain's failure points"
+          }
+        ]
+      }
     }
   },
   "program_outcomes": [
@@ -229,7 +316,8 @@
     "po4_coverage": "PO4 (Ethical, Social and Inclusive Leadership) is mapped 0 by all four COs. Nothing in the prescribed syllabus addresses it, and inflating a mapping to fill the column would misstate attainment. PO coverage closes at programme level, not course level, so a 2-credit elective with no PO4 mapping is defensible - but confirm before submission.",
     "open_items": [],
     "assessment": "Out of scope for this workspace by faculty decision. assessment_co_po_alignment is intentionally empty and attainment_targets is null. The three prescribed hands-on activities remain in syllabus_outline as teaching activities, not graded components.",
-    "reference_list": "Out of scope for this workspace by faculty decision. No reading list is prescribed and none is suggested. Session and lecture 'readings' fields stay empty arrays."
+    "reference_list": "Out of scope for this workspace by faculty decision. No reading list is prescribed and none is suggested. Session and lecture 'readings' fields stay empty arrays.",
+    "delivery_model": "pedagogical_profile.delivery_model is a faculty-authored teaching approach, not prescribed syllabus. It shapes how the prescribed content is delivered and changes none of it."
   },
   "session_plan": {
     "total_sessions": 15,

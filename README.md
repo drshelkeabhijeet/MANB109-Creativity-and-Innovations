@@ -17,7 +17,8 @@ prescribed syllabus are in place; session content is not yet generated.
 | `syllabus_manb109.json` | Per-session learning objectives and studio activities |
 | `kb/` | Ingestion sandbox — drop source material here before generating |
 | `lectures/` `slides/` | Generated session content and decks |
-| `templates/` `worksheets/` `visuals/` | Student-facing studio material |
+| `templates/` | Authored studio instruments — anchor brief, critique protocol, idea log, pitch structure, facilitator guide template |
+| `worksheets/` `visuals/` | Per-session sheets and room posters (generated) |
 
 ## Status
 
@@ -25,8 +26,7 @@ Course profile **complete**. Three units, 2 credits, L:T:P 0:0:2, 30 contact hou
 (10 per unit), delivered as 15 weekly 120-minute studio sessions. All four COs and all
 three units are transcribed verbatim from the university-prescribed syllabus.
 
-Session content (`lectures/`, `slides/`, `templates/`, `worksheets/`, `visuals/`) is
-**not yet generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
+Session content (`lectures/`, `slides/`, `worksheets/`, `visuals/`) is **not yet generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
 
 ### Pending faculty sign-off
 
@@ -46,6 +46,26 @@ Two findings worth reading before sign-off:
 - **PO4** (Ethical, Social and Inclusive Leadership) is mapped 0 by all four COs. Nothing in
   the syllabus addresses it. PO coverage closes at programme level, so this is defensible —
   but confirm before submission.
+
+## How it is taught
+
+A studio course, not a lecture course. The delivery model is recorded in
+`course_profile.json → pedagogical_profile.delivery_model` and explained in the
+*How This Course Is Taught* section of [`course_profile.md`](course_profile.md). In short:
+
+- **One anchor enterprise** picked in week 1 and carried through all three units — Unit 1
+  brainstorms its problem, Unit 2 mind-maps it, Unit 3 SCAMPERs its offering.
+- **Diverge in Marathi, converge in English** — ideation in the language students think in,
+  the pitch in English.
+- **Every session ends with a ~3-minute pitch.** Fifteen sessions, fifteen repetitions, and
+  the only attainment path for CO 109.2.
+- **Fixed 120-minute rhythm** — 10 warm-up / 15 input / 60 making / 25 critique and pitch /
+  10 idea log. Never more than 15 continuous minutes of facilitator talk.
+- **Paper first, software second** — nothing depends on a projector or a connection.
+- **Feedback without grading** — a peer critique protocol and an ungraded idea log.
+
+Five studio instruments in [`templates/`](templates/) are authored rather than generated and
+should not be overwritten.
 
 ## Generating content
 

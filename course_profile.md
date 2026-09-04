@@ -27,6 +27,100 @@
 
 ---
 
+## How This Course Is Taught
+
+*Faculty-authored delivery approach. It changes none of the prescribed content — only how
+that content is delivered.*
+
+A creativity course fails when it is taught as content. SCAMPER and mind mapping are
+procedures students can define perfectly and never use. With L:T:P 0:0:2 there are no
+lecture hours to fall back on, so every session is built around making something.
+
+### One anchor enterprise, three lenses
+
+In week 1 each student picks **one real local enterprise** — a family kirana shop, a
+neighbourhood workshop, a self-help group, a coaching class, a small clinic, an FPO outlet —
+and carries it through all three units:
+
+| Unit | Lens applied to the same enterprise |
+|---|---|
+| 1 | Brainstorm its problem |
+| 2 | Mind-map it |
+| 3 | SCAMPER its offering |
+
+Three disconnected exercises make students start cold three times. One anchor lets them
+watch their own thinking deepen, and they finish the semester with something real to hand
+back to a real person.
+
+This stays inside the prescribed wording: the syllabus names *a mobile app or website*, and
+the anchor enterprise's digital surface — its WhatsApp catalogue, Google Business listing, or
+simple site — **is** that app or website.
+
+### Diverge in Marathi. Converge in English.
+
+Creative fluency is language-bound. Forcing English at the idea-generation stage suppresses
+ideas before they exist. Brainstorming, mind-map labels, the idea log and peer critique run
+in Marathi or Hindi; the pitch is delivered in English. Fluency is protected without giving
+up the placement-relevant skill.
+
+### The pitch is the spine
+
+**Every one of the 15 sessions ends with a share-out of about three minutes.** Fifteen
+sessions is fifteen repetitions of standing up and explaining an idea — plausibly the most
+placement-relevant thing this course delivers. It is also the only attainment path for
+**CO 109.2**, which no unit's topics cover.
+
+### Session rhythm — 120 minutes
+
+| Phase | Minutes |
+|---|---|
+| Warm-up | 10 |
+| Input | 15 |
+| Making | 60 |
+| Critique and pitch | 25 |
+| Idea log | 10 |
+
+Never more than 15 continuous minutes of facilitator talk.
+
+### Safety is the mechanism, not the mood
+
+Unit 1 teaches barriers to creativity and mental blocks — the room has to practise what the
+unit preaches. Fear of looking foolish is the binding constraint on a creativity classroom,
+not lack of technique. So: open with a *deliberately bad ideas* warm-up, keep weeks 1–2
+team-attributed only, and critique the idea rather than the person using the fixed protocol
+in `templates/peer_critique_protocol.md`.
+
+### Feedback without grading
+
+This course carries no assessment plan, but feedback is not grading. A fixed peer-critique
+protocol runs every session, and an ungraded **idea log** runs all semester — one page per
+session, kept by the student. It costs nothing to administer and makes progress visible to
+the student, which is most of the motivation in a course with no marks attached.
+
+### Paper first, software second
+
+Assume no laptop, no reliable projector, patchy data. A3 sheets for mind maps, a printed
+7-row grid for SCAMPER. Software is enrichment, never the medium.
+
+### Tools do not retire
+
+Mind mapping stays in use through Unit 3; Unit 1's brainstorming norms hold all semester.
+Rigid unit blocks let students treat each technique as finished and forgettable.
+
+### Say the forward links out loud
+
+MANB109 is Semester I. Its tools are reused in Semester III, and signposted transfer is
+retained where unsignposted transfer usually is not. Name the connection in class:
+
+| Tool | Reused in | As |
+|---|---|---|
+| Mind mapping | MANB307A Case Studies in Agri-Business Management | Decomposing a case before analysis |
+| SCAMPER | MANB304A Agri-Marketing | Generating value-addition options for a commodity |
+| Storytelling and visual pitch | MANB307M Digital Marketing | Pitching a campaign to a client |
+| Structured problem decomposition | MANB306A Agriculture Logistics & SCM | Mapping a supply chain's failure points |
+
+---
+
 ## Course Outcomes (COs)
 
 *Transcribed verbatim from the university-prescribed syllabus.*

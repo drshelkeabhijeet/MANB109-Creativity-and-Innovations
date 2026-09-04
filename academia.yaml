@@ -5,6 +5,8 @@ course_title: "Creativity and Innovations"
 platform: "mba-classroom"
 institution: "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad"
 schema_reference: "academia-os-core/templates"
-pedagogy: [backward_design, constructive_alignment, blooms_revised_taxonomy, obe, experiential_learning]
+pedagogy: [backward_design, constructive_alignment, blooms_revised_taxonomy, obe,
+           experiential_learning, studio_based, vernacular_first, peer_critique,
+           anchor_client_project]
 accreditation: [aicte, nep_2020]
 project_id: "manb109-output-2026"
