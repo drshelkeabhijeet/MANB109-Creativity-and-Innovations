@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.3.0",
+  "course_id": "f7748549-3c6c-45a4-ac0d-92f5e7d34727",
+  "course_code": "MANB109",
+  "course_title": "Creativity and Innovations",
+  "course_type": "Generic Elective",
+  "semester": 1,
+  "credit_distribution": {
+    "lectures_per_week": 0,
+    "tutorials_per_week": 0,
+    "practicals_per_week": 2,
+    "total_credits": 2.0
+  },
+  "academic_calendar": {
+    "semester_weeks": 15,
+    "lecture_duration_minutes": 0,
+    "lab_duration_minutes": 120,
+    "total_contact_hours": 30
+  },
+  "pedagogical_profile": {
+    "frameworks": [
+      "Backward Design",
+      "Constructive Alignment",
+      "Bloom's Revised Taxonomy",
+      "Experiential Learning"
+    ],
+    "delivery_mode": "studio_workshop",
+    "accreditation": {
+      "type": "AICTE / NEP 2020",
+      "nep_2020_aligned": true,
+      "aicte_aligned": true
+    }
+  },
+  "program_outcomes": [
+    {
+      "po_id": "PO1",
+      "statement": "Strategic Thinking and Managerial Decision-Making: Apply strategic frameworks to analyse business situations, evaluate alternatives, and make informed managerial decisions in complex environments."
+    },
+    {
+      "po_id": "PO2",
+      "statement": "Analytical and Data-Driven Problem Solving: Collect, analyse, and interpret quantitative and qualitative data to diagnose business problems and recommend evidence-based solutions."
+    },
+    {
+      "po_id": "PO3",
+      "statement": "Digital and Technological Fluency: Select and apply appropriate digital tools, platforms, and technologies to achieve business objectives in an increasingly digital economy."
+    },
+    {
+      "po_id": "PO4",
+      "statement": "Ethical, Social, and Inclusive Leadership: Demonstrate ethical reasoning, social responsibility, and commitment to inclusive growth in business decisions, respecting diverse stakeholders and communities."
+    },
+    {
+      "po_id": "PO5",
+      "statement": "Communication and Presentation Skills: Communicate ideas effectively in written, oral, and digital formats across languages and platforms, adapting to diverse audiences."
+    },
+    {
+      "po_id": "PO6",
+      "statement": "Entrepreneurial and Local Business Application: Apply entrepreneurial thinking and management knowledge to create, grow, and sustain local businesses, MSMEs, cooperatives, and rural enterprises."
+    }
+  ],
+  "course_outcomes": [
+    {
+      "co_uuid": "2fc4280c-2e96-48a4-a127-e9fe1c681122",
+      "co_id": "109.1",
+      "statement": "Understand the foundations of creativity and innovation in a business context.",
+      "blooms_level": "understand",
+      "blooms_level_as_prescribed": "Understand",
+      "po_mapping": null,
+      "mapping_justification": null
+    },
+    {
+      "co_uuid": "d01afcee-1af6-499a-b39f-681fbc9d6254",
+      "co_id": "109.2",
+      "statement": "Present creative ideas effectively using storytelling and visual tools.",
+      "blooms_level": null,
+      "blooms_level_as_prescribed": "Develop",
+      "po_mapping": null,
+      "mapping_justification": null
+    },
+    {
+      "co_uuid": "2c067a9c-e3a0-48b8-ba99-c8cceac420e3",
+      "co_id": "109.3",
+      "statement": "Use the SCAMPER technique to develop innovative ideas and solutions.",
+      "blooms_level": "create",
+      "blooms_level_as_prescribed": "Create",
+      "po_mapping": null,
+      "mapping_justification": null
+    },
+    {
+      "co_uuid": "c9121400-3077-4c18-b27c-d29ec91050cb",
+      "co_id": "109.4",
+      "statement": "Apply mind mapping and creative techniques to solve real-world problems.",
+      "blooms_level": "apply",
+      "blooms_level_as_prescribed": "Apply",
+      "po_mapping": null,
+      "mapping_justification": null
+    }
+  ],
+  "co_po_articulation_matrix": {
+    "description": "CO-PO Articulation Matrix for MANB109 Creativity and Innovations",
+    "matrix": null,
+    "totals": null,
+    "attainment_targets": null
+  },
+  "assessment_co_po_alignment": [],
+  "syllabus_outline": [
+    {
+      "unit_uuid": "7b87d0ee-6ae0-43e4-8d70-98445787b928",
+      "unit_number": 1,
+      "title": "Foundations of Creativity and Innovation",
+      "description": "Introduction to Creativity: definition, importance, and role in problem-solving. Creativity vs. Innovation. The Creative Process. Barriers to Creativity.",
+      "hours_allocated": null,
+      "key_topics": [
+        "Introduction to Creativity: Definition, importance, and role in problem-solving",
+        "Creativity vs. Innovation: How creative thinking leads to innovation in business",
+        "The Creative Process: Stages of creativity - from idea generation to implementation",
+        "Barriers to Creativity: How to overcome mental blocks and traditional thinking"
+      ],
+      "hands_on_activity": "Brainstorm ideas to redesign a basic mobile app or website and create a creative solution"
+    },
+    {
+      "unit_uuid": "86ad1346-d7c4-4318-998a-329dcab4cc91",
+      "unit_number": 2,
+      "title": "Mind Mapping and Creative Thinking Techniques",
+      "description": "Basics and benefits of mind mapping, mind mapping for problem solving, and collaborative mind mapping for team projects.",
+      "hours_allocated": null,
+      "key_topics": [
+        "Introduction to Mind Mapping: Basics of mind mapping, its benefits, and how it helps with idea generation",
+        "Mind Mapping for Problem Solving: Using mind maps to break down complex tech issues into manageable parts",
+        "Collaborative Mind Mapping: How teams can use mind mapping as a creative and collaborative tool for projects"
+      ],
+      "hands_on_activity": "Create a mind map for a technology startup idea, visually breaking down the components needed to launch it"
+    },
+    {
+      "unit_uuid": "25b04a07-2630-4d5c-b1cb-6d84b60f71ce",
+      "unit_number": 3,
+      "title": "SCAMPER Technique for Innovation",
+      "description": "SCAMPER as a structured creativity tool, applied to product improvement and to real-world business or tech problems in teams.",
+      "hours_allocated": null,
+      "key_topics": [
+        "Introduction to SCAMPER: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Rearrange",
+        "Using SCAMPER for Product Improvement: Applying SCAMPER to improve existing products or services",
+        "Team SCAMPER Exercise: Working in groups to apply SCAMPER to a real-world business or tech problem"
+      ],
+      "hands_on_activity": "Teams apply SCAMPER to redesign or enhance a tech product (e.g., a mobile app or website)"
+    }
+  ],
+  "_scaffold_notes": {
+    "status": "SEEDED_FROM_PRESCRIBED_SYLLABUS_PARTIAL",
+    "verbatim_from_university": [
+      "course_outcomes.statement",
+      "syllabus_outline (units 1-3)"
+    ],
+    "open_items": [
+      "syllabus_outline: units 4+ not supplied - source image ended after Unit 3.",
+      "CO 109.2 (storytelling / visual tools) is not covered by units 1-3; a later unit must address it.",
+      "hours_allocated: null for all units - 30 total contact hours to be divided once unit count is known.",
+      "co_po_articulation_matrix + po_mapping + mapping_justification: to be generated.",
+      "assessment_co_po_alignment: empty - assessment plan and weights not yet supplied.",
+      "blooms_level for 109.2 is null: prescribed verb 'Develop' is not a Bloom's revised level."
+    ]
+  }
+}

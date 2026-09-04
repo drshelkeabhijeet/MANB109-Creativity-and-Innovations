@@ -1,0 +1,10 @@
+academia_version: "1.3.0"
+workspace_id: "manb109-output-2026"
+course_code: "MANB109"
+course_title: "Creativity and Innovations"
+platform: "mba-classroom"
+institution: "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad"
+schema_reference: "academia-os-core/templates"
+pedagogy: [backward_design, constructive_alignment, blooms_revised_taxonomy, obe, experiential_learning]
+accreditation: [aicte, nep_2020]
+project_id: "manb109-output-2026"
