@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "815858c7-8744-4479-9c13-bd88f783a07a",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_15",
+  "lecture_title": "Final Pitch and the Look-Back",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 3,
+  "target_co_ids": [
+    "109.2",
+    "109.3",
+    "109.4"
+  ],
+  "content": "Closes the semester. Two jobs: the final pitch, and the week-15 look-back that shows students how far their own thinking moved. The hand-back to the owner is what makes fifteen weeks of work land on a real person.\n\nCORE IDEA\nYou owe the owner an answer, not a report.\n\n1. What changed. Not the business — you. Fifteen weeks ago you asked different questions.\n2. The hand-back is short. One page, in the owner's language, saying what you saw and what you would do first.\n3. No jargon. Not one word from this course appears in the hand-back. No SCAMPER, no BOI, no mind map.\n4. One recommendation. Not five. The one you would stand behind if they did it and it failed.",
+  "learning_objectives": [
+    {
+      "id": "LO15.1",
+      "statement": "What changed",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO15.2",
+      "statement": "The hand-back is short",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO15.3",
+      "statement": "No jargon",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO15.4",
+      "statement": "One recommendation",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_14"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Warm-up: Read Yourself From Week One",
+      "duration": 10,
+      "source": "generated",
+      "desc": "The single most effective moment in the course. Students hear their own week-one thinking and measure the distance without anyone grading them.",
+      "language": "any"
+    },
+    {
+      "type": "Assemble the portfolio",
+      "duration": 25,
+      "source": "generated",
+      "desc": "Every artefact in order: the anchor brief, the maps, the SCAMPER grids, the sketches. Add one line to each saying what it told you.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Write the hand-back",
+      "duration": 20,
+      "source": "generated",
+      "desc": "One page, in the owner's language. What you saw, one recommendation, what it costs, what to do first. No course vocabulary.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Rehearse in pairs",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Read the hand-back aloud to a partner as if they were the owner. Partner asks one question the owner would ask. Fix that sentence.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "Final portfolio pitch. Full structure, 3 minutes. Hold up the artefact that changed your mind. The room's critique is the last of the semester — make it generous and specific.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Complete the **week-15 look-back** section: what you wrote in Session 1, what you would write now, and whether what changed was the enterprise or you.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md"
+  ],
+  "projector_required": false,
+  "between_sessions": "Deliver the hand-back to your owner. In person if you can. They gave you fifteen weeks of material.",
+  "forward_link": {
+    "reused_in": "all four Semester III courses",
+    "say": "You will meet mind mapping in MANB307A, SCAMPER in MANB304A, decomposition in MANB306A, and this pitch in MANB307M. You already know how to do all four."
+  },
+  "readings": []
+}

@@ -19,7 +19,7 @@ Every session closes with a pitch. `109.2` is therefore in scope in all 15.
 | 2 | The Creative Process, Start to Finish | Visit debrief. The stages from idea to implementation, and where ideas actually die | 109.1, 109.2 |
 | 3 | Breaking the Blocks | Assumption reversal and forced connections, applied to the anchor's stuck point | 109.1, 109.2 |
 | 4 | **Redesigning the Digital Front Door** *(prescribed activity)* | Brainstorm to redesign a basic mobile app or website — here, the anchor's own digital surface | 109.1, 109.2 |
-| 5 | From Many Ideas to One | Convergence: selection criteria, killing your favourite. First full three-minute pitch | 109.1, 109.2 |
+| 5 | From Many Ideas to One | Convergence: selection criteria, killing your favourite. First pitch of a single converged idea | 109.1, 109.2 |
 
 ## Unit 2 — Mind Mapping and Creative Thinking Techniques · 10 hours
 
@@ -64,6 +64,16 @@ All three appear verbatim, each in session 4 of its unit:
 | 1 | 4 | Brainstorm ideas to redesign a basic mobile app or website and create a creative solution |
 | 2 | 9 | Create a mind map for a technology startup idea, visually breaking down the components needed to launch it |
 | 3 | 14 | Teams apply SCAMPER to redesign or enhance a tech product (e.g., a mobile app or website) |
+
+## How the pitch escalates
+
+| Sessions | Form |
+|---|---|
+| 1–2 | 2 minutes, **team-attributed** — nobody is singled out while trust is still forming |
+| 3–14 | 3 minutes, **individual**, full five-beat structure |
+| 15 | Final portfolio pitch |
+
+---
 
 ## Between sessions
 

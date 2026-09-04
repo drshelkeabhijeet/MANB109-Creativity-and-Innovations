@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "4f87fb3e-8e84-4307-8d84-e7844d9e1414",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_12",
+  "lecture_title": "SCAMPER for Product Improvement",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 3,
+  "target_co_ids": [
+    "109.3",
+    "109.2"
+  ],
+  "content": "The method meets the anchor's actual offering. Eliminate is given deliberate weight because it is the prompt that produces the ideas an owner has not already had.\n\nCORE IDEA\nMost improvements are additions. The best ones are usually subtractions.\n\n1. The object today is your anchor's own offering — the thing they sell, exactly as they sell it now.\n2. All seven prompts, in order, no skipping. The prompt you want to skip is the one carrying your blind spot.\n3. Test against the Session 5 questions. Can the owner do it, this month, with what they have?\n4. Eliminate again, harder. What does this business do out of habit rather than need?",
+  "learning_objectives": [
+    {
+      "id": "LO12.1",
+      "statement": "The object today is your anchor's own offering — the thing they sell, exactly as they sell it now",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO12.2",
+      "statement": "All seven prompts, in order, no skipping",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO12.3",
+      "statement": "Test against the Session 5 questions",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO12.4",
+      "statement": "Eliminate again, harder",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_11"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Warm-up: What Could They Stop Doing",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Puts the hardest prompt first, while the room is fresh, and frames subtraction as the session's theme.",
+      "language": "any"
+    },
+    {
+      "type": "All seven, on the offering",
+      "duration": 30,
+      "source": "generated",
+      "desc": "Printed grid. Your anchor's actual product or service. Minimum three ideas per row. Write in Marathi or Hindi — this is divergent work.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Score with the Session 5 questions",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Owner can do it? This month? With what they have? Mark every idea. Do not discard the failures — mark them 'later'.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Pick two and detail them",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Two surviving ideas. For each: what changes on Monday morning, and what does the customer notice?",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes. Pitch one of the two detailed ideas, and say what the customer notices.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Did SCAMPER beat the idea you committed to in Session 5? Answer honestly.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/scamper_grid.md"
+  ],
+  "projector_required": false,
+  "between_sessions": "None.",
+  "forward_link": {
+    "reused_in": "MANB304A Agri-Marketing",
+    "say": "Product improvement on a commodity — grading, packaging, processing — runs on exactly this grid."
+  },
+  "readings": []
+}

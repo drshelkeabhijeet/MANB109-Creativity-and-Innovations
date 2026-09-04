@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "cb9184d7-ef15-4873-9241-7d81d7b2a03a",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_04",
+  "lecture_title": "Redesigning the Digital Front Door",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 1,
+  "target_co_ids": [
+    "109.1",
+    "109.2"
+  ],
+  "content": "Carries the prescribed Unit 1 hands-on activity. Students arrive with three sessions of practice, so the brainstorm is not cold.\n\nCORE IDEA\nYour customer's first contact with this business is already digital, whether the owner designed it or not.\n\n1. The front door is rarely a website. For most businesses here it is a WhatsApp number, a Google Maps pin, or a photo someone else uploaded.\n2. It exists already, unmanaged. Search your anchor right now — whatever comes up is the front door, including nothing at all.\n3. Redesign means the whole first contact, not a homepage: what a customer sees, how they ask, how they pay, how they come back.\n4. Cheap beats impressive. A correct Google listing with photos and real hours outperforms a website nobody visits.",
+  "learning_objectives": [
+    {
+      "id": "LO4.1",
+      "statement": "The front door is rarely a website",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO4.2",
+      "statement": "It exists already, unmanaged",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO4.3",
+      "statement": "Redesign means the whole first contact, not a homepage: what a customer sees, how they ask, how they pay, how they come back",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO4.4",
+      "statement": "Cheap beats impressive",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_03"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Warm-up: The Worst Website",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Reuses the safest move in the course at the point where students are about to be asked for their best ideas. Also surfaces real failure modes — students describe things they have genuinely encountered.",
+      "language": "any"
+    },
+    {
+      "type": "Audit the front door",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Search your anchor on Google Maps and WhatsApp. What exists? Wrong hours, no photos, nothing at all? Write what a first-time customer would see. No phone: describe it from memory and mark it unverified.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Team brainstorm — quantity target",
+      "duration": 30,
+      "source": "prescribed_syllabus_unit_1_hands_on_activity",
+      "desc": "Brainstorm ideas to redesign a basic mobile app or website and create a creative solution.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Sketch your one",
+      "duration": 20,
+      "source": "generated",
+      "desc": "Each student takes one idea — yours or a teammate's — and sketches the redesigned front door on A3. A drawing, not a specification.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes, individual. Hold the A3 sketch up during beat 4 — this is the first session where the artefact does real work in the pitch.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Note which idea was yours and which you borrowed. Both count.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md"
+  ],
+  "projector_required": false,
+  "between_sessions": "If you could not audit today, do it before Session 5. Five minutes on a phone.",
+  "forward_link": {
+    "reused_in": "MANB307M Digital Marketing",
+    "say": "This front-door audit is the first step of the local-discovery work in Semester III."
+  },
+  "readings": []
+}

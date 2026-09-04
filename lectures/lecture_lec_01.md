@@ -136,8 +136,9 @@ First pitch of the semester — **shortened and team-attributed**, per the weeks
 - One round of critique using `templates/peer_critique_protocol.md` — **you model the first
   full set of three moves yourself**, then hand it to the room.
 
-Full three-minute structure from `templates/pitch_structure.md` begins in Session 2. Hand the
-sheet out today so they can read it before then.
+Pitches escalate: **2 minutes, team-attributed** today and in Session 2 (the safety rule),
+then **3 minutes, individual, full structure** from Session 3. Hand out
+`templates/pitch_structure.md` today so they can read it before then.
 
 > This closing beat is the attainment path for **CO 109.2**. If you run out of time and cut
 > it, the CO is not met. Cut the input instead.

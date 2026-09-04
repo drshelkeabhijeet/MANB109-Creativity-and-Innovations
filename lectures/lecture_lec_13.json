@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "c206b833-0bd8-4e32-a774-6bf91018d5e9",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_13",
+  "lecture_title": "Team SCAMPER",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 3,
+  "target_co_ids": [
+    "109.3",
+    "109.2"
+  ],
+  "content": "Covers the prescribed Unit 3 topic 'Team SCAMPER Exercise: working in groups to apply SCAMPER to a real-world business or tech problem'. Silent-first is the mechanism that stops one voice owning the grid.\n\nCORE IDEA\nRun the prompts in silence first, then talk. Reverse that order and the loudest person's grid becomes the team's grid.\n\n1. Silent first, always. Each member fills the whole grid alone before anyone speaks.\n2. Then merge, prompt by prompt. Compare Substitute rows before anyone touches Combine.\n3. Disagreement means the row is alive. Two different answers on one prompt is better than four identical ones.\n4. Pick the problem carefully. Real, specific, and one nobody at the table has already solved.",
+  "learning_objectives": [
+    {
+      "id": "LO13.1",
+      "statement": "Silent first, always",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO13.2",
+      "statement": "Then merge, prompt by prompt",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO13.3",
+      "statement": "Disagreement means the row is alive",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO13.4",
+      "statement": "Pick the problem carefully",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_12"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Warm-up: Rapid Combine",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Warms the Combine prompt specifically — the one that benefits most from more than one head.",
+      "language": "any"
+    },
+    {
+      "type": "Choose the problem",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Teams of four. One real problem: a team member's anchor, or something on campus everybody experiences. Write it as a sentence before you start.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Silent grids",
+      "duration": 20,
+      "source": "generated",
+      "desc": "Every member fills all seven rows alone. No talking. Twenty minutes.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Merge prompt by prompt",
+      "duration": 30,
+      "source": "generated",
+      "desc": "Compare Substitute rows across all four grids, then Combine, and so on. Build one team grid. Rotate the scribe every two prompts.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes, but team-pitched today — one member presents, the team answers critique together. Individual pitches resume in Session 14.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Which of your ideas survived the merge? Which of theirs did you take?",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/scamper_grid.md"
+  ],
+  "projector_required": false,
+  "between_sessions": "None.",
+  "forward_link": {
+    "reused_in": "MANB306A Agriculture Logistics & Supply Chain Management",
+    "say": "Group problem-solving on a real chain failure runs the same silent-first structure."
+  },
+  "readings": []
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "5e9db028-60ee-47a1-a708-b946fb1cb896",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_14",
+  "lecture_title": "Team SCAMPER Product Redesign",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 3,
+  "target_co_ids": [
+    "109.3",
+    "109.2"
+  ],
+  "content": "Carries the prescribed Unit 3 hands-on activity, and is the last working session before the final pitch.\n\nCORE IDEA\nA redesign is not a new coat of paint. It is deciding what the thing is for, and removing what does not serve that.\n\n1. The object is a tech product — an app or a website. Your anchor's front door from Session 4, or a product everyone at the table uses.\n2. All seven prompts, as a team, silent first. Same discipline as last session.\n3. Eliminate carries this session. Look at the board — most abandonment reasons are about too much, not too little.\n4. Produce something visible. A drawn screen, not a description.",
+  "learning_objectives": [
+    {
+      "id": "LO14.1",
+      "statement": "The object is a tech product — an app or a website",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO14.2",
+      "statement": "All seven prompts, as a team, silent first",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO14.3",
+      "statement": "Eliminate carries this session",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO14.4",
+      "statement": "Produce something visible",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_13"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Warm-up: Six Seconds",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Generates the evaluation criteria from the students' own experience rather than handing them a heuristics list.",
+      "language": "any"
+    },
+    {
+      "type": "Choose and frame",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Teams of four. One tech product: a member's anchor front door, or an app everyone uses. Write in one sentence what it is *for*.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Silent grids, then merge",
+      "duration": 30,
+      "source": "prescribed_syllabus_unit_3_hands_on_activity",
+      "desc": "Teams apply SCAMPER to redesign or enhance a tech product (e.g., a mobile app or website).",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Draw the redesign",
+      "duration": 20,
+      "source": "generated",
+      "desc": "A3. Draw the redesigned screen or front door. Mark which SCAMPER prompt produced each change.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes, individual again. Hold the A3 up and name the prompt behind your favourite change.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Note the change you argued for that the team rejected.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/scamper_grid.md"
+  ],
+  "projector_required": false,
+  "between_sessions": "Bring every artefact you have made — all maps, grids, sketches — to Session 15.",
+  "forward_link": {
+    "reused_in": "MANB307M Digital Marketing",
+    "say": "Auditing and redesigning a digital front door is the core of the local-discovery work in Semester III."
+  },
+  "readings": []
+}

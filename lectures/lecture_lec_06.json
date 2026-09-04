@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "95ca2033-28fe-489a-a2ee-446e0e4a92c6",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_06",
+  "lecture_title": "Mind Mapping — Buzan's Laws",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 2,
+  "target_co_ids": [
+    "109.4",
+    "109.2"
+  ],
+  "content": "Unit 2 opens. Mind mapping here is Tony Buzan's method specifically, not a generic bubble diagram — the laws are what make it work, and students will break most of them on their first attempt by design.\n\nCORE IDEA\nA list hides relationships. A Buzan map shows them — and the laws are what make the difference between a map and a doodle.\n\n1. Radiant thinking. The brain does not store in lines; it radiates from a centre. A map on paper copies that shape, which is why recall improves.\n2. The laws of emphasis. A central *image*, not a word. Three colours minimum in that image. Branch thickness heaviest at the centre and thinning outward. Varying letter size.\n3. The laws of clarity. ONE key word per line. Print, do not join up. The word sits *on* the line. Line length equals word length. Curved branches, never straight rulered ones. Paper landscape.\n4. Basic Ordering Ideas. The main branches off the centre are your BOIs — the four to seven big buckets. Get those right and the rest of the map organises itself.",
+  "learning_objectives": [
+    {
+      "id": "LO6.1",
+      "statement": "Radiant thinking",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO6.2",
+      "statement": "The laws of emphasis",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO6.3",
+      "statement": "The laws of clarity",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO6.4",
+      "statement": "Basic Ordering Ideas",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_05"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Warm-up: Map Your Morning — With No Rules",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Students produce a lopsided list-with-boxes. When Buzan's laws land ten minutes later, they can see exactly which ones they broke and why it hurt the map.",
+      "language": "any"
+    },
+    {
+      "type": "Check your morning map against the laws",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Hold up your warm-up map. How many laws did it break? Almost everyone writes sentences, uses straight lines, and starts with a word instead of an image. Nobody is in trouble — that is the point of the exercise.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "First map of the anchor",
+      "duration": 25,
+      "source": "generated",
+      "desc": "A3, landscape. Central IMAGE of the business — draw it, do not write the name. Three colours in that image. Four to seven BOIs as curved main branches, one key word each, printed on the line. Then radiate.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Draw it again",
+      "duration": 25,
+      "source": "generated",
+      "desc": "Second map, fresh sheet. The second map is always better because the BOIs are now obvious. Keep both.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes, individual. Hold the second map up during beat 4 and point at one branch — do not read the map aloud.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Which BOI did your second map have that your first did not?",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/mind_map_canvas.md"
+  ],
+  "projector_required": false,
+  "between_sessions": "None. Bring both maps to Session 7.",
+  "forward_link": {
+    "reused_in": "MANB307A Case Studies in Agri-Business Management",
+    "say": "A case is decomposed exactly this way before you analyse it — BOIs first, detail second."
+  },
+  "readings": []
+}
