@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "ec1c9205-b372-4775-b018-7747404e3d82",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_02",
+  "lecture_title": "The Creative Process, Start to Finish",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 1,
+  "target_co_ids": [
+    "109.1",
+    "109.2"
+  ],
+  "content": "Students return with answers from their first owner conversation. The session turns that raw material into a located problem: not 'sales are down' but 'the owner is stuck at verification — she has ideas but no way to test one cheaply'.\n\nCORE IDEA\nThe good idea is not the hard part. The hard part is everything that happens after it.\n\n1. The stages. Preparation, incubation, illumination, verification, implementation. Illumination is the one everybody romanticises and the one that takes the least time.\n2. Incubation is real work. The idea that arrives in the bus is paid for by the two hours you spent stuck the day before.\n3. Where ideas actually die. Two gaps: between illumination and verification (no cheap way to test), and between verification and implementation (it works, nobody does it).\n4. Locating the stall. Your anchor's owner is stuck at exactly one of these stages. Naming which one is today's work.",
+  "learning_objectives": [
+    {
+      "id": "LO2.1",
+      "statement": "The stages",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO2.2",
+      "statement": "Incubation is real work",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO2.3",
+      "statement": "Where ideas actually die",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO2.4",
+      "statement": "Locating the stall",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_01"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "What was Session 1's one idea? Name the four barriers we listed. What is your anchor enterprise, and what did its owner say that surprised you?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
+      "type": "Warm-up: 30 Circles",
+      "duration": 7,
+      "source": "generated",
+      "desc": "Shows fluency and originality as two different things, in ninety seconds of evidence rather than a definition.",
+      "language": "any"
+    },
+    {
+      "type": "Visit debrief, in pairs",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Tell your partner one thing the owner said that you did not expect. Not the useful thing — the surprising one. Partners write down the surprise for you; you are too close to hear it.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Locate the stall",
+      "duration": 20,
+      "source": "generated",
+      "desc": "Which stage is the owner stuck at? Preparation (does not know enough about the customer)? Illumination (no ideas)? Verification (cannot test cheaply)? Implementation (knows what to do, cannot start)? Mark it and write two lines of evidence from the visit.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "The sentence, three times",
+      "duration": 25,
+      "source": "generated",
+      "desc": "Write the problem in one sentence. Then rewrite it more specifically. Then again. The third version is usually the first one you can act on.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "2 minutes, still team-attributed — the last session under the weeks 1–2 safety rule. Individual three-minute pitches begin next session; say so today so nobody is surprised.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Box 4 today should hold the third version of the problem sentence.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/contrasting_cases_unit1.md"
+  ],
+  "projector_required": false,
+  "early_finisher_extension": "Write the problem sentence a fifth time — from the customer's point of view instead of the owner's.",
+  "worked_example": "",
+  "between_sessions": "None. You already have what you need.",
+  "forward_link": {
+    "reused_in": "MANB306A Agriculture Logistics & Supply Chain Management",
+    "say": "Locating exactly where a process stalls is the same move you will make when you find the failure point in a supply chain."
+  },
+  "readings": []
+}

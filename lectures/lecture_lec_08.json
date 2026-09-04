@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "5e09e267-a6b6-433a-a296-9b657a167d86",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_08",
+  "lecture_title": "Collaborative Mind Mapping",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 2,
+  "target_co_ids": [
+    "109.4",
+    "109.2"
+  ],
+  "content": "Buzan's group process: individual maps first, then a shared one. The value is the branch an outsider draws that the owner of the business could not see.\n\nCORE IDEA\nThe person who knows least about your business will draw the branch you cannot see.\n\n1. Buzan's group sequence. Individual maps first, silently. Only then a shared map. Reversing the order lets one voice set the BOIs for everyone.\n2. Outsiders are the asset. Your teammates have never met your owner. Their ignorance is why they will ask the branch you stopped asking.\n3. Disagreement is data. Two people putting the same idea on different branches means the structure is not settled — that is worth more than agreement.\n4. One scribe, rotating. Everyone talks, one draws, and the drawer changes each round.",
+  "learning_objectives": [
+    {
+      "id": "LO8.1",
+      "statement": "Buzan's group sequence",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO8.2",
+      "statement": "Outsiders are the asset",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO8.3",
+      "statement": "Disagreement is data",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO8.4",
+      "statement": "One scribe, rotating",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_07"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "What was the actionable leaf you found on your problem map? Which leaf did your partner find that you had not?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
+      "type": "Warm-up: The Silent Map",
+      "duration": 7,
+      "source": "generated",
+      "desc": "Removes the loudest voice from the process. Teams discover they can build a shared structure without anyone directing it — which is exactly Buzan's argument for mapping before discussing.",
+      "language": "any"
+    },
+    {
+      "type": "Four rounds, seven minutes each",
+      "duration": 30,
+      "source": "generated",
+      "desc": "Teams of four. One member's anchor per round: the owner gives sixty seconds of context, then stays silent while the other three map it. Rotate.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "What surprised you",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Each owner reads their team's map of their own business. Write down the one branch you would not have drawn.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Fold it in",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Add that branch to your own map from Session 6 or 7, in a different colour so you can see later that it came from outside.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes. Pitch the branch you did not draw yourself — what your team saw that you missed, and what you will do about it.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Box 3 today records what your team saw that you did not.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/mind_map_canvas.md"
+  ],
+  "projector_required": false,
+  "early_finisher_extension": "Map your own anchor as a stranger would — only what can be seen from the street.",
+  "worked_example": "",
+  "between_sessions": "None.",
+  "forward_link": {
+    "reused_in": "MANB307M Digital Marketing",
+    "say": "Campaign planning runs the same way — map alone, then together, or the loudest voice sets the plan."
+  },
+  "readings": []
+}

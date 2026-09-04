@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="The SCAMPER wheel: seven prompts for changing a thing">
+<title>SCAMPER — Seven Ways to Change a Thing</title>
+<defs><style>
+ .seg{fill:none;stroke:#1a1a1a;stroke-width:2.5}
+ .letter{font:700 46px Georgia,serif;fill:#1a1a1a;text-anchor:middle;dominant-baseline:central}
+ .word{font:600 19px Georgia,serif;fill:#1a1a1a;text-anchor:middle}
+ .ask{font:italic 14px Georgia,serif;fill:#444;text-anchor:middle}
+ .core{font:700 26px Georgia,serif;fill:#1a1a1a;text-anchor:middle}
+ .sub{font:italic 15px Georgia,serif;fill:#444;text-anchor:middle}
+</style></defs>
+<rect width="800" height="800" fill="#fdfdfb"/>
+<circle cx="400" cy="400" r="105" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+<text class="core" x="400" y="385">THE THING</text>
+<text class="sub" x="400" y="415">as it is now</text>
+<g id="spokes" stroke="#1a1a1a" stroke-width="1.2" opacity=".45">
+ <line x1="400" y1="295" x2="400" y2="205"/>
+ <line x1="482" y1="336" x2="551" y2="283"/>
+ <line x1="493" y1="443" x2="581" y2="474"/>
+ <line x1="452" y1="493" x2="486" y2="579"/>
+ <line x1="348" y1="493" x2="314" y2="579"/>
+ <line x1="307" y1="443" x2="219" y2="474"/>
+ <line x1="318" y1="336" x2="249" y2="283"/>
+</g>
+<g>
+ <circle class="seg" cx="400" cy="150" r="60"/><text class="letter" x="400" y="140">S</text>
+ <text class="word" x="400" y="178">Substitute</text><text class="ask" x="400" y="238">what could I swap out?</text>
+ <circle class="seg" cx="608" cy="243" r="60"/><text class="letter" x="608" y="233">C</text>
+ <text class="word" x="608" y="271">Combine</text><text class="ask" x="608" y="331">what could I merge it with?</text>
+ <circle class="seg" cx="648" cy="490" r="60"/><text class="letter" x="648" y="480">A</text>
+ <text class="word" x="648" y="518">Adapt</text><text class="ask" x="648" y="578">what works elsewhere?</text>
+ <circle class="seg" cx="505" cy="640" r="60"/><text class="letter" x="505" y="630">M</text>
+ <text class="word" x="505" y="668">Modify</text><text class="ask" x="505" y="728">bigger? smaller? slower?</text>
+ <circle class="seg" cx="295" cy="640" r="60"/><text class="letter" x="295" y="630">P</text>
+ <text class="word" x="295" y="668">Put to use</text><text class="ask" x="295" y="728">who else could use it?</text>
+ <circle class="seg" cx="152" cy="490" r="60" stroke-width="5"/><text class="letter" x="152" y="480">E</text>
+ <text class="word" x="152" y="518">Eliminate</text><text class="ask" x="152" y="578">what could I remove?</text>
+ <circle class="seg" cx="192" cy="243" r="60"/><text class="letter" x="192" y="233">R</text>
+ <text class="word" x="192" y="271">Rearrange</text><text class="ask" x="192" y="331">what if the order reversed?</text>
+</g>
+<text class="ask" x="400" y="778" style="font-size:15px">Eliminate is drawn heaviest: the most productive prompt, and the least used.</text>
+</svg>

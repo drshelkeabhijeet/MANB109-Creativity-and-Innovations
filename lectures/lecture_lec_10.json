@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "b264356e-46c0-4ffd-85e3-1cbe381139e0",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_10",
+  "lecture_title": "Reading a Map — What It Tells You",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 2,
+  "target_co_ids": [
+    "109.4",
+    "109.2"
+  ],
+  "content": "Closes Unit 2. Students stop making maps and start diagnosing them — including their own attention.\n\nCORE IDEA\nA map is a picture of your attention. The empty side of the page is the finding.\n\n1. Density shows where you have been thinking, not where the business needs work.\n2. A sparse branch is a question, not a gap. It means you have not looked there.\n3. The missing branch is the blind spot — the BOI you never drew at all.\n4. Buzan's numerical order. Number your BOIs by importance and the map becomes an agenda.",
+  "learning_objectives": [
+    {
+      "id": "LO10.1",
+      "statement": "Density shows where you have been thinking, not where the business needs work",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO10.2",
+      "statement": "A sparse branch is a question, not a gap",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO10.3",
+      "statement": "The missing branch is the blind spot — the BOI you never drew at all",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO10.4",
+      "statement": "Buzan's numerical order",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_09"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "What were your startup map's two thinnest branches? What question did you write for each?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
+      "type": "Warm-up: Read a Stranger's Map",
+      "duration": 7,
+      "source": "generated",
+      "desc": "Models the whole session in two minutes, on a real artefact rather than an example.",
+      "language": "any"
+    },
+    {
+      "type": "Lay them all out",
+      "duration": 20,
+      "source": "generated",
+      "desc": "Every map from Sessions 6 to 9, side by side. Which branches recur? Which appear once and never again? Write two lines on where your attention has concentrated.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Draw the avoided branch",
+      "duration": 20,
+      "source": "generated",
+      "desc": "There is a branch you have not drawn in four sessions. Money, or the owner's family, or a competitor, or the customer who stopped coming. Draw it now.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "One page on what the maps say",
+      "duration": 20,
+      "source": "generated",
+      "desc": "Not what the business is — what your maps reveal about the business and about what you have been ignoring. Number your BOIs by importance.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes. Pitch the avoided branch — this is usually the strongest pitch of Unit 2 because it is the most honest.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Box 4: has your view of this business changed since Session 1? You will read this again in five weeks.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/mind_map_canvas.md",
+    "templates/technique_card.md"
+  ],
+  "projector_required": false,
+  "early_finisher_extension": "Number your BOIs by importance, then again by ease. Where do the two orders disagree?",
+  "worked_example": "",
+  "between_sessions": "None.",
+  "forward_link": {
+    "reused_in": "MANB307A Case Studies in Agri-Business Management",
+    "say": "Noticing what a case does not tell you is as important as analysing what it does."
+  },
+  "readings": []
+}

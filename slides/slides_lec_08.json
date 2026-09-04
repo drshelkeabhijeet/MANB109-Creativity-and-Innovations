@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.3.0",
+  "slides_uuid": "fa925329-4d6e-4095-bff7-26bedfe6b9a0",
+  "lecture_uuid": "ec11ff88-f7ea-4b63-a1d4-2179ca93fa2b",
+  "course_code": "MANB109",
+  "storyboard_meta": {
+    "total_slides": 6,
+    "total_duration_seconds": 7200,
+    "session_type": "studio_practical",
+    "narrative_arc": "orient_anchor_explain_make_close",
+    "target_audience": "MBA Semester I",
+    "projector_required": false,
+    "note": "A studio deck serves the 15-minute input beat only. Every session must run if the projector fails."
+  },
+  "defensive_guardrails": {
+    "max_words_per_slide": 115,
+    "max_bullets_per_slide": 8,
+    "interactive_interval_seconds": 420,
+    "negative_space_target_pct": 40,
+    "min_font_size_pt": 14
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Collaborative Mind Mapping",
+      "layout_type": "HERO",
+      "instructional_intent": "orientation",
+      "content_blocks": [
+        {
+          "block_type": "eyebrow",
+          "block_data": "SESSION 08"
+        },
+        {
+          "block_type": "hero_text",
+          "block_data": "Collaborative Mind Mapping"
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Unit 2 · Mind Mapping and Creative Thinking Techniques · 120 minutes · studio · COs 109.4, 109.2"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Studio session. Warm-up: The Silent Map. Do not lecture past 15 minutes."
+    },
+    {
+      "slide_number": 2,
+      "title": "The one idea",
+      "layout_type": "CONCEPT",
+      "instructional_intent": "anchor",
+      "content_blocks": [
+        {
+          "block_type": "statement",
+          "block_data": "The person who knows least about your business will draw the branch you cannot see."
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Say it once. Do not elaborate on the slide — elaborate out loud."
+    },
+    {
+      "slide_number": 3,
+      "title": "Why it matters",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 1,
+            "lead": "Buzan's group sequence",
+            "body": "Individual maps first, silently. Only then a shared map. Reversing the order lets one voice set the BOIs for everyone."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 2,
+            "lead": "Outsiders are the asset",
+            "body": "Your teammates have never met your owner. Their ignorance is why they will ask the branch you stopped asking."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 4,
+      "title": "What to do with it",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 3,
+            "lead": "Disagreement is data",
+            "body": "Two people putting the same idea on different branches means the structure is not settled — that is worth more than agreement."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 4,
+            "lead": "One scribe, rotating",
+            "body": "Everyone talks, one draws, and the drawer changes each round."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 5,
+      "title": "Today you will",
+      "layout_type": "ACTIVITY",
+      "instructional_intent": "task",
+      "content_blocks": [
+        {
+          "block_type": "task",
+          "block_data": "Your team maps each member's anchor in turn. You are the outsider three times and the owner once."
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Marathi or Hindi · 60 minutes"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Leave this slide up for the whole making phase."
+    },
+    {
+      "slide_number": 6,
+      "title": "To close",
+      "layout_type": "KEY_TAKEAWAYS",
+      "instructional_intent": "consolidate",
+      "content_blocks": [
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Pitch",
+            "body": "Three minutes. The person, the stuck, the idea, the picture, the ask."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Critique",
+            "body": "I like… / I wish… / What if… — the idea, never the person."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Idea log",
+            "body": "One page. Silent. Box 4 is the one you read again in week 15."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "If time runs short, cut the input — never the pitch. The pitch is how CO 109.2 is attained."
+    }
+  ]
+}

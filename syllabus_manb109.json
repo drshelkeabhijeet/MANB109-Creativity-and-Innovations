@@ -1,0 +1,46 @@
+[
+  {
+    "lecture_id": "LEC_01",
+    "title": "Foundations of Creativity — What It Is and Why It Matters",
+    "unit": 1,
+    "duration": 120,
+    "session_type": "practical",
+    "target_cos": [
+      "109.1"
+    ],
+    "lo": [
+      {
+        "id": "LO1.1",
+        "statement": "Define creativity and explain its importance and role in business problem-solving.",
+        "blooms": "understand"
+      },
+      {
+        "id": "LO1.2",
+        "statement": "Distinguish creativity from innovation and explain how creative thinking leads to innovation in business.",
+        "blooms": "understand"
+      },
+      {
+        "id": "LO1.3",
+        "statement": "Describe the stages of the creative process, from idea generation through to implementation.",
+        "blooms": "understand"
+      },
+      {
+        "id": "LO1.4",
+        "statement": "Identify personal and organisational barriers to creativity and apply techniques to overcome mental blocks and traditional thinking.",
+        "blooms": "apply"
+      }
+    ],
+    "active_learning": [
+      {
+        "type": "Studio Brainstorm",
+        "desc": "Brainstorm ideas to redesign a basic mobile app or website and create a creative solution.",
+        "duration": 60,
+        "source": "prescribed_syllabus_unit_1_hands_on_activity"
+      }
+    ],
+    "content": "",
+    "readings": [],
+    "_exemplar": true,
+    "_note": "Seeded from the prescribed Unit 1 syllabus as a SHAPE REFERENCE. 'content' is intentionally empty - generate it. Copy this object's key structure exactly for every other session."
+  }
+]

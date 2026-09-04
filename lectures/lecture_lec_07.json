@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.3.0",
+  "lecture_uuid": "c6d83d29-0ffb-49b9-9680-e3d90fd8fe26",
+  "course_code": "MANB109",
+  "lecture_id": "LEC_07",
+  "lecture_title": "Mapping to Break a Problem Down",
+  "duration_minutes": 120,
+  "session_type": "practical",
+  "unit": 2,
+  "target_co_ids": [
+    "109.4",
+    "109.2"
+  ],
+  "content": "The map turns from describing a business to dissecting one problem. The output is an action small enough to do this week.\n\nCORE IDEA\nYou cannot act on 'sales are down'. You can act on 'nobody within two streets knows we deliver'.\n\n1. The centre changes. Last session the centre was the business. Today it is the problem — the sentence you wrote in Session 2.\n2. BOIs become causes. Four to seven candidate reasons this problem exists. Not solutions yet.\n3. Keep splitting until it is small. A leaf you can act on this week without permission or money.\n4. Most problems are three small problems wearing one big name.",
+  "learning_objectives": [
+    {
+      "id": "LO7.1",
+      "statement": "The centre changes",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO7.2",
+      "statement": "BOIs become causes",
+      "blooms": "understand"
+    },
+    {
+      "id": "LO7.3",
+      "statement": "Keep splitting until it is small",
+      "blooms": "apply"
+    },
+    {
+      "id": "LO7.4",
+      "statement": "Most problems are three small problems wearing one big name",
+      "blooms": "apply"
+    }
+  ],
+  "pre_requisites": [
+    "LEC_06"
+  ],
+  "active_learning_components": [
+    {
+      "type": "Retrieval practice",
+      "duration": 3,
+      "source": "generated",
+      "desc": "Say three of Buzan's laws without looking. Which one did your first map break, and what did the second map fix?",
+      "language": "any",
+      "rationale": "Recall from memory, log closed, before any new input. Retrieval beats re-reading for retention."
+    },
+    {
+      "type": "Warm-up: Map Something Complicated",
+      "duration": 7,
+      "source": "generated",
+      "desc": "Practises the laws on something with no emotional weight before turning them on the anchor's real problem.",
+      "language": "any"
+    },
+    {
+      "type": "Map the problem",
+      "duration": 25,
+      "source": "generated",
+      "desc": "A3 landscape, Buzan's laws. Central image of the *problem*, not the business. BOIs are candidate causes. Split each until the branches get specific.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Find the actionable leaf",
+      "duration": 15,
+      "source": "generated",
+      "desc": "Circle every leaf you could act on within a week with no money. Most maps have two or three. If yours has none, you have not split far enough.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Swap and find another",
+      "duration": 20,
+      "source": "generated",
+      "desc": "Trade maps with a partner. Find a leaf they circled — and one they did not. Explain why you would start there.",
+      "language": "marathi_or_hindi"
+    },
+    {
+      "type": "Critique and Pitch",
+      "duration": 25,
+      "source": "generated",
+      "desc": "3 minutes. The pitch is the actionable leaf and why you would start there — beat 3 is one action, not a strategy.",
+      "language": "english"
+    },
+    {
+      "type": "Idea log",
+      "duration": 10,
+      "source": "generated",
+      "desc": "Write the leaf you chose. In Session 15 you will check whether it was the right one.",
+      "language": "any"
+    }
+  ],
+  "materials": [
+    "templates/pitch_structure.md",
+    "templates/peer_critique_protocol.md",
+    "templates/idea_log.md",
+    "templates/mind_map_canvas.md"
+  ],
+  "projector_required": false,
+  "early_finisher_extension": "Map the same problem from the customer's side. Are the causes the same ones?",
+  "worked_example": "",
+  "between_sessions": "None.",
+  "forward_link": {
+    "reused_in": "MANB306A Agriculture Logistics & Supply Chain Management",
+    "say": "Splitting a failing chain into stages until you find the one that broke is this exact move."
+  },
+  "readings": []
+}

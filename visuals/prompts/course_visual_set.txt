@@ -1,0 +1,65 @@
+OUTPUT
+Generate exactly four images and save them to these absolute paths:
+  /home/user/manb109-creativity-and-innovations/visuals/hero_creative_studio.png
+  /home/user/manb109-creativity-and-innovations/visuals/unit1_foundations.png
+  /home/user/manb109-creativity-and-innovations/visuals/unit2_mind_mapping.png
+  /home/user/manb109-creativity-and-innovations/visuals/unit3_scamper.png
+Save at the largest NATIVE resolution the tool produces. Do NOT downscale, resize or
+re-encode. Do not modify any other file in the project.
+
+STYLE
+Hand-drawn ink and watercolour wash, as if from a designer's sketchbook. Confident dark
+ink linework with visible pen pressure, over loose transparent washes that do not stay
+inside the lines. Warm restrained palette: ochre, terracotta, indigo, sap green, on warm
+off-white paper with faint visible paper grain. Everyday Indian small-town materials and
+objects, observed with affection and accuracy, never exoticised and never generic-stock.
+Composition calm and uncluttered with generous empty paper.
+NOT: photorealism, 3D rendering, glossy corporate illustration, flat vector art, neon or
+saturated gradients, lens flare, bokeh, text or lettering of any kind, logos, watermarks,
+signatures, UI chrome. NO human faces and no identifiable individuals — hands and
+partial figures only, never a recognisable person.
+
+SUBJECT AND FRAMING — one block per file
+
+hero_creative_studio.png
+  Subject: a wooden worktable seen from directly overhead. On it: loose A3 sheets, one
+  showing a half-finished hand-drawn radiant diagram; scattered coloured markers with caps
+  off; a steel tiffin box; a cutting chai glass half full; a cheap ruled notebook, open.
+  No people, no hands.
+  Framing: 3:2 landscape. Camera directly above, 1.2 metres from the table surface. The
+  table fills the frame edge to edge. The tabletop objects occupy the lower 70% of the
+  frame; the top 25% is calm empty tabletop for a caption.
+
+unit1_foundations.png
+  Subject: a small independent shopfront in a Maharashtra district town at early morning,
+  metal roller shutter raised halfway, a single bulb on inside, a plastic stool by the
+  door, a bicycle leaning at the edge. Closed, quiet, about to open. No people.
+  Framing: 3:2 landscape. Camera at standing eye height, 1.6 metres, across a narrow
+  street. Ground-to-wall junction 78% down the frame. The shopfront spans 55% of the image
+  width and sits slightly left of centre. The top 25% is calm empty sky and wall.
+
+unit2_mind_mapping.png
+  Subject: a single large sheet of paper on a wooden table, carrying a hand-drawn radiant
+  map — a drawn pictorial symbol at the centre, then curved organic branches radiating
+  outward, thick at the centre and tapering to fine tips, each branch a different colour,
+  with small drawn pictograms at branch ends. Branches carry NO readable words — marks and
+  pictograms only. One hand holding a marker enters from the lower right, fingers only.
+  Framing: 3:2 landscape. Camera 0.8 metres above the sheet, tilted 20 degrees from
+  vertical. The sheet spans 85% of frame width. The central symbol sits at the exact centre
+  of the sheet. The top 20% is calm empty table surface.
+
+unit3_scamper.png
+  Subject: one steel tiffin box shown seven times across the frame in a loose arc — the
+  first whole and ordinary, the others each altered: one with a tier removed, one stacked
+  taller, one flattened wide, one with a handle borrowed from a kettle, one turned on its
+  side as a planter with a seedling, one with its tiers reordered. Studies on paper, not a
+  product shot. No people.
+  Framing: 3:2 landscape. Flat-on elevation view, no perspective, all seven at IDENTICAL
+  scale and on one shared baseline 72% down the frame. The arc of seven spans 88% of frame
+  width. The top 22% is calm empty paper.
+
+THE LIST
+1. hero_creative_studio.png — overhead worktable, per its block above
+2. unit1_foundations.png — shuttered shopfront at dawn, per its block above
+3. unit2_mind_mapping.png — radiant hand-drawn map on paper, per its block above
+4. unit3_scamper.png — one tiffin box in seven variations, per its block above

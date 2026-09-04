@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.3.0",
+  "slides_uuid": "44b6cb86-1ac2-465a-ac2e-b2caf8261155",
+  "lecture_uuid": "cb9184d7-ef15-4873-9241-7d81d7b2a03a",
+  "course_code": "MANB109",
+  "storyboard_meta": {
+    "total_slides": 6,
+    "total_duration_seconds": 7200,
+    "session_type": "studio_practical",
+    "narrative_arc": "orient_anchor_explain_make_close",
+    "target_audience": "MBA Semester I",
+    "projector_required": false,
+    "note": "A studio deck serves the 15-minute input beat only. Every session must run if the projector fails."
+  },
+  "defensive_guardrails": {
+    "max_words_per_slide": 115,
+    "max_bullets_per_slide": 8,
+    "interactive_interval_seconds": 420,
+    "negative_space_target_pct": 40,
+    "min_font_size_pt": 14
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Redesigning the Digital Front Door",
+      "layout_type": "HERO",
+      "instructional_intent": "orientation",
+      "content_blocks": [
+        {
+          "block_type": "eyebrow",
+          "block_data": "SESSION 04"
+        },
+        {
+          "block_type": "hero_text",
+          "block_data": "Redesigning the Digital Front Door"
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Unit 1 · Foundations of Creativity and Innovation · 120 minutes · studio · COs 109.1, 109.2"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Studio session. Warm-up: The Worst Website. Do not lecture past 15 minutes."
+    },
+    {
+      "slide_number": 2,
+      "title": "The one idea",
+      "layout_type": "CONCEPT",
+      "instructional_intent": "anchor",
+      "content_blocks": [
+        {
+          "block_type": "statement",
+          "block_data": "Your customer's first contact with this business is already digital, whether the owner designed it or not."
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Say it once. Do not elaborate on the slide — elaborate out loud."
+    },
+    {
+      "slide_number": 3,
+      "title": "Why it matters",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 1,
+            "lead": "The front door is rarely a website",
+            "body": "For most businesses here it is a WhatsApp number, a Google Maps pin, or a photo someone else uploaded."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 2,
+            "lead": "It exists already, unmanaged",
+            "body": "Search your anchor right now — whatever comes up is the front door, including nothing at all."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 4,
+      "title": "What to do with it",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 3,
+            "lead": "Redesign means the whole first contact, not a ho",
+            "body": "mepage: what a customer sees, how they ask, how they pay, how they come back."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 4,
+            "lead": "Cheap beats impressive",
+            "body": "A correct Google listing with photos and real hours outperforms a website nobody visits."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 5,
+      "title": "Today you will",
+      "layout_type": "ACTIVITY",
+      "instructional_intent": "task",
+      "content_blocks": [
+        {
+          "block_type": "task",
+          "block_data": "Brainstorm ideas to redesign a basic mobile app or website and create a creative solution — for your anchor's own digital front door."
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Prescribed syllabus activity · Marathi or Hindi · 60 minutes"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Leave this slide up for the whole making phase."
+    },
+    {
+      "slide_number": 6,
+      "title": "To close",
+      "layout_type": "KEY_TAKEAWAYS",
+      "instructional_intent": "consolidate",
+      "content_blocks": [
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Pitch",
+            "body": "Three minutes. The person, the stuck, the idea, the picture, the ask."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Critique",
+            "body": "I like… / I wish… / What if… — the idea, never the person."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Idea log",
+            "body": "One page. Silent. Box 4 is the one you read again in week 15."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "If time runs short, cut the input — never the pitch. The pitch is how CO 109.2 is attained."
+    }
+  ]
+}
