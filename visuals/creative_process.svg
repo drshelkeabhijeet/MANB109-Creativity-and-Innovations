@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" width="1000" height="460" role="img" aria-label="The creative process in five stages, showing the two gaps where ideas die">
+<title>The Creative Process — and Where Ideas Die</title>
+<defs>
+ <style>
+  .stage{fill:none;stroke:#1a1a1a;stroke-width:2.5}
+  .name{font:700 17px Georgia,serif;fill:#1a1a1a;text-anchor:middle}
+  .desc{font:italic 13px Georgia,serif;fill:#555;text-anchor:middle}
+  .cap{font:700 20px Georgia,serif;fill:#1a1a1a;text-anchor:middle}
+  .gap{font:600 14px Georgia,serif;fill:#c1440e;text-anchor:middle}
+  .gapsub{font:italic 12px Georgia,serif;fill:#c1440e;text-anchor:middle}
+  .note{font:italic 14px Georgia,serif;fill:#444;text-anchor:middle}
+ </style>
+ <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+  <path d="M0 0 L10 5 L0 10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect width="1000" height="460" fill="#fdfdfb"/>
+<text class="cap" x="500" y="36">The Creative Process — and Where Ideas Actually Die</text>
+
+<line x1="70" y1="200" x2="930" y2="200" stroke="#1a1a1a" stroke-width="1.5" marker-end="url(#a)"/>
+
+<g>
+ <circle class="stage" cx="130" cy="200" r="40"/>
+ <text class="name" x="130" y="272">Preparation</text><text class="desc" x="130" y="292">gathering, asking</text>
+ <circle class="stage" cx="320" cy="200" r="40"/>
+ <text class="name" x="320" y="272">Incubation</text><text class="desc" x="320" y="292">stuck, not idle</text>
+ <circle class="stage" cx="500" cy="200" r="40" stroke-dasharray="5 4"/>
+ <text class="name" x="500" y="272">Illumination</text><text class="desc" x="500" y="292">the short bit</text>
+ <circle class="stage" cx="690" cy="200" r="40"/>
+ <text class="name" x="690" y="272">Verification</text><text class="desc" x="690" y="292">testing it cheaply</text>
+ <circle class="stage" cx="880" cy="200" r="40"/>
+ <text class="name" x="880" y="272">Implementation</text><text class="desc" x="880" y="292">someone uses it</text>
+</g>
+
+<!-- the two death gaps -->
+<g>
+ <path d="M568 200 L622 200" stroke="#c1440e" stroke-width="3" stroke-dasharray="4 5"/>
+ <path d="M595 150 v34" stroke="#c1440e" stroke-width="1"/>
+ <text class="gap" x="595" y="142">GAP 1</text>
+ <text class="gapsub" x="595" y="126">no cheap way to test it</text>
+
+ <path d="M758 200 L812 200" stroke="#c1440e" stroke-width="3" stroke-dasharray="4 5"/>
+ <path d="M785 150 v34" stroke="#c1440e" stroke-width="1"/>
+ <text class="gap" x="785" y="142">GAP 2</text>
+ <text class="gapsub" x="785" y="126">it works, nobody does it</text>
+</g>
+
+<text class="note" x="500" y="358">Illumination is the stage everybody romanticises and the one that takes the least time.</text>
+<text class="note" x="500" y="382">Almost every idea that dies, dies in one of the two marked gaps — after the good idea, not before it.</text>
+<text class="note" x="500" y="424" style="font-size:15px;fill:#1a1a1a">Your anchor's owner is stuck at exactly one of these five. Naming which one is the work.</text>
+</svg>

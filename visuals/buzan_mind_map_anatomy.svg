@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" role="img" aria-label="Anatomy of a Buzan mind map, with the laws labelled on the drawing">
+<title>Anatomy of a Buzan Mind Map</title>
+<defs><style>
+ .br{fill:none;stroke:#1a1a1a;stroke-linecap:round}
+ .kw{font:600 17px Georgia,serif;fill:#1a1a1a}
+ .lab{font:italic 13px Georgia,serif;fill:#8a5a2b}
+ .cap{font:700 20px Georgia,serif;fill:#1a1a1a;text-anchor:middle}
+ .note{font:italic 14px Georgia,serif;fill:#444;text-anchor:middle}
+ .call{fill:none;stroke:#8a5a2b;stroke-width:1;stroke-dasharray:3 3}
+</style></defs>
+<rect width="1000" height="640" fill="#fdfdfb"/>
+<text class="cap" x="500" y="34">Anatomy of a Buzan Mind Map</text>
+<text class="note" x="500" y="56">Paper landscape · central image · one key word per line · curved branches, thick to thin</text>
+
+<!-- central image -->
+<circle cx="500" cy="330" r="52" fill="none" stroke="#c1440e" stroke-width="3"/>
+<path d="M478 348 v-26 l22-16 22 16 v26 z" fill="none" stroke="#1a6b5a" stroke-width="2.5"/>
+<path d="M489 348 v-15 h9 v15" fill="none" stroke="#2a4b8d" stroke-width="2.5"/>
+<line class="call" x1="500" y1="272" x2="500" y2="236"/>
+<text class="lab" x="500" y="228" text-anchor="middle">central IMAGE, not a word · 3+ colours</text>
+
+<!-- branches: thick at centre, tapering -->
+<path class="br" d="M549 306 C 620 286, 660 268, 726 258" stroke-width="9"/>
+<text class="kw" x="732" y="256">CUSTOMER</text>
+<path class="br" d="M726 258 C 772 246, 800 232, 848 226" stroke-width="4"/>
+<text class="kw" x="854" y="230" style="font-size:14px">regulars</text>
+<path class="br" d="M726 258 C 770 268, 796 282, 842 288" stroke-width="4"/>
+<text class="kw" x="848" y="292" style="font-size:14px">new</text>
+
+<path class="br" d="M551 350 C 622 372, 662 392, 728 404" stroke-width="9"/>
+<text class="kw" x="734" y="408">MONEY</text>
+<path class="br" d="M728 404 C 772 414, 796 428, 840 436" stroke-width="4"/>
+<text class="kw" x="846" y="440" style="font-size:14px">stock</text>
+
+<path class="br" d="M500 382 C 486 452, 470 492, 452 552" stroke-width="9"/>
+<text class="kw" x="392" y="572">PLACE</text>
+
+<path class="br" d="M451 350 C 380 372, 340 392, 274 404" stroke-width="9"/>
+<text class="kw" x="180" y="408">OFFERING</text>
+<path class="br" d="M274 404 C 230 416, 204 430, 158 440" stroke-width="4"/>
+<text class="kw" x="96" y="444" style="font-size:14px">chai</text>
+
+<path class="br" d="M451 306 C 380 286, 340 268, 274 258" stroke-width="9"/>
+<text class="kw" x="182" y="256">PEOPLE</text>
+
+<path class="br" d="M500 278 C 512 214, 520 178, 534 128" stroke-width="9"/>
+<text class="kw" x="540" y="120">HOURS</text>
+
+<!-- callouts -->
+<line class="call" x1="640" y1="286" x2="616" y2="342"/>
+<text class="lab" x="560" y="358">thick at the centre, tapering outward</text>
+<line class="call" x1="740" y1="250" x2="770" y2="196"/>
+<text class="lab" x="700" y="188">ONE key word, printed ON the line</text>
+<line class="call" x1="300" y1="262" x2="270" y2="206"/>
+<text class="lab" x="120" y="198">4–7 BOIs radiate from the centre</text>
+<line class="call" x1="470" y1="500" x2="560" y2="504"/>
+<text class="lab" x="568" y="508">line length = word length</text>
+<line class="call" x1="200" y1="424" x2="170" y2="482"/>
+<text class="lab" x="60" y="498">curved, never ruled straight</text>
+
+<text class="note" x="500" y="616">Method: Tony Buzan — radiant thinking and the Laws of Mind Mapping</text>
+</svg>
