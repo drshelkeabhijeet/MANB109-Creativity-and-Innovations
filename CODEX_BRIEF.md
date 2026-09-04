@@ -196,11 +196,12 @@ Mind maps and SCAMPER are taught pen-and-paper first, software second.
 
 ## Step 5 — `templates/`, `worksheets/`, `visuals/` (slides done)
 
-- **slides/** — **done.** All 15 decks exist as `slides_lec_NN.{md,json,html,pptx}`, six
+- **slides/** — **done.** All 15 decks exist as `slides_lec_NN.{md,json,html,pptx,pdf}`, six
   slides each: title, the one idea, two beat slides, the task, the close. They serve the
   15-minute input beat only and `storyboard_meta.projector_required` is `false` on every
   one. Guardrails hold: max 115 words per slide (highest actual is 70), min 14pt, no
-  bullets. Do not regenerate them; extend the generator if you need changes.
+  bullets. PDFs are exported from the pptx via LibreOffice Impress — regenerate both
+  together so they never drift. Do not hand-edit; extend the generator if you need changes.
 - **rubrics/** — **skip.** This course carries no assessment plan by faculty decision;
   `assessment_co_po_alignment` is empty and `attainment_targets` is null. Leave `rubrics/`
   and `assessments/` empty. Do not invent graded components or weights. If an assessment

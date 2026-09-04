@@ -19,7 +19,14 @@
     "total_templates": 0,
     "total_worksheets": 0,
     "last_validated_at": "",
-    "total_sessions_planned": 15
+    "total_sessions_planned": 15,
+    "slide_formats": [
+      "md",
+      "json",
+      "html",
+      "pptx",
+      "pdf"
+    ]
   },
   "dirty_invalidation_matrix": {
     "course_profile": false,
