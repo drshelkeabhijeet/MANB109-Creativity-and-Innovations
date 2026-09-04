@@ -14,7 +14,7 @@
   "created_at": "2026-09-04T00:00:00Z",
   "build_telemetry": {
     "total_lectures_compiled": 15,
-    "total_slides": 0,
+    "total_slides": 15,
     "total_rubrics": 0,
     "total_templates": 0,
     "total_worksheets": 0,

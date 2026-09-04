@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.3.0",
+  "slides_uuid": "64ca349d-4e1e-4c3e-9f31-142f9ee878bc",
+  "lecture_uuid": "5e9db028-60ee-47a1-a708-b946fb1cb896",
+  "course_code": "MANB109",
+  "storyboard_meta": {
+    "total_slides": 6,
+    "total_duration_seconds": 7200,
+    "session_type": "studio_practical",
+    "narrative_arc": "orient_anchor_explain_make_close",
+    "target_audience": "MBA Semester I",
+    "projector_required": false,
+    "note": "A studio deck serves the 15-minute input beat only. Every session must run if the projector fails."
+  },
+  "defensive_guardrails": {
+    "max_words_per_slide": 115,
+    "max_bullets_per_slide": 8,
+    "interactive_interval_seconds": 420,
+    "negative_space_target_pct": 40,
+    "min_font_size_pt": 14
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Team SCAMPER Product Redesign",
+      "layout_type": "HERO",
+      "instructional_intent": "orientation",
+      "content_blocks": [
+        {
+          "block_type": "eyebrow",
+          "block_data": "SESSION 14"
+        },
+        {
+          "block_type": "hero_text",
+          "block_data": "Team SCAMPER Product Redesign"
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Unit 3 · SCAMPER Technique for Innovation · 120 minutes · studio · COs 109.3, 109.2"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Studio session. Warm-up: Six Seconds. Do not lecture past 15 minutes."
+    },
+    {
+      "slide_number": 2,
+      "title": "The one idea",
+      "layout_type": "CONCEPT",
+      "instructional_intent": "anchor",
+      "content_blocks": [
+        {
+          "block_type": "statement",
+          "block_data": "A redesign is not a new coat of paint. It is deciding what the thing is for, and removing what does not serve that."
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Say it once. Do not elaborate on the slide — elaborate out loud."
+    },
+    {
+      "slide_number": 3,
+      "title": "Why it matters",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 1,
+            "lead": "The object is a tech product — an app or a website",
+            "body": "Your anchor's front door from Session 4, or a product everyone at the table uses."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 2,
+            "lead": "All seven prompts, as a team, silent first",
+            "body": "Same discipline as last session."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 4,
+      "title": "What to do with it",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 3,
+            "lead": "Eliminate carries this session",
+            "body": "Look at the board — most abandonment reasons are about too much, not too little."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 4,
+            "lead": "Produce something visible",
+            "body": "A drawn screen, not a description."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 5,
+      "title": "Today you will",
+      "layout_type": "ACTIVITY",
+      "instructional_intent": "task",
+      "content_blocks": [
+        {
+          "block_type": "task",
+          "block_data": "Teams apply SCAMPER to redesign or enhance a tech product (for example, a mobile app or website)."
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Prescribed syllabus activity · Marathi or Hindi · 60 minutes"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Leave this slide up for the whole making phase."
+    },
+    {
+      "slide_number": 6,
+      "title": "To close",
+      "layout_type": "KEY_TAKEAWAYS",
+      "instructional_intent": "consolidate",
+      "content_blocks": [
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Pitch",
+            "body": "Three minutes. The person, the stuck, the idea, the picture, the ask."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Critique",
+            "body": "I like… / I wish… / What if… — the idea, never the person."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Idea log",
+            "body": "One page. Silent. Box 4 is the one you read again in week 15."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "If time runs short, cut the input — never the pitch. The pitch is how CO 109.2 is attained."
+    }
+  ]
+}

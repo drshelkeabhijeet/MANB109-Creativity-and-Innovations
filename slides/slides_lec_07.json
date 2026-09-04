@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.3.0",
+  "slides_uuid": "d106bb12-c770-4f06-8372-cea5b093072d",
+  "lecture_uuid": "e04562e5-9db9-4527-9965-e4841c927f08",
+  "course_code": "MANB109",
+  "storyboard_meta": {
+    "total_slides": 6,
+    "total_duration_seconds": 7200,
+    "session_type": "studio_practical",
+    "narrative_arc": "orient_anchor_explain_make_close",
+    "target_audience": "MBA Semester I",
+    "projector_required": false,
+    "note": "A studio deck serves the 15-minute input beat only. Every session must run if the projector fails."
+  },
+  "defensive_guardrails": {
+    "max_words_per_slide": 115,
+    "max_bullets_per_slide": 8,
+    "interactive_interval_seconds": 420,
+    "negative_space_target_pct": 40,
+    "min_font_size_pt": 14
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Mapping to Break a Problem Down",
+      "layout_type": "HERO",
+      "instructional_intent": "orientation",
+      "content_blocks": [
+        {
+          "block_type": "eyebrow",
+          "block_data": "SESSION 07"
+        },
+        {
+          "block_type": "hero_text",
+          "block_data": "Mapping to Break a Problem Down"
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Unit 2 · Mind Mapping and Creative Thinking Techniques · 120 minutes · studio · COs 109.4, 109.2"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Studio session. Warm-up: Map Something Complicated. Do not lecture past 15 minutes."
+    },
+    {
+      "slide_number": 2,
+      "title": "The one idea",
+      "layout_type": "CONCEPT",
+      "instructional_intent": "anchor",
+      "content_blocks": [
+        {
+          "block_type": "statement",
+          "block_data": "You cannot act on 'sales are down'. You can act on 'nobody within two streets knows we deliver'."
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Say it once. Do not elaborate on the slide — elaborate out loud."
+    },
+    {
+      "slide_number": 3,
+      "title": "Why it matters",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 1,
+            "lead": "The centre changes",
+            "body": "Last session the centre was the business. Today it is the problem — the sentence you wrote in Session 2."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 2,
+            "lead": "BOIs become causes",
+            "body": "Four to seven candidate reasons this problem exists. Not solutions yet."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 4,
+      "title": "What to do with it",
+      "layout_type": "FRAMEWORK",
+      "instructional_intent": "explain",
+      "content_blocks": [
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 3,
+            "lead": "Keep splitting until it is small",
+            "body": "A leaf you can act on this week without permission or money."
+          }
+        },
+        {
+          "block_type": "numbered_point",
+          "block_data": {
+            "n": 4,
+            "lead": "Most problems are three small problems wearing o",
+            "body": "ne big name."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Four beats across two slides. Fifteen minutes for all of it."
+    },
+    {
+      "slide_number": 5,
+      "title": "Today you will",
+      "layout_type": "ACTIVITY",
+      "instructional_intent": "task",
+      "content_blocks": [
+        {
+          "block_type": "task",
+          "block_data": "Map one anchor problem until you reach a leaf you could act on this week."
+        },
+        {
+          "block_type": "meta",
+          "block_data": "Marathi or Hindi · 60 minutes"
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "Leave this slide up for the whole making phase."
+    },
+    {
+      "slide_number": 6,
+      "title": "To close",
+      "layout_type": "KEY_TAKEAWAYS",
+      "instructional_intent": "consolidate",
+      "content_blocks": [
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Pitch",
+            "body": "Three minutes. The person, the stuck, the idea, the picture, the ask."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Critique",
+            "body": "I like… / I wish… / What if… — the idea, never the person."
+          }
+        },
+        {
+          "block_type": "row",
+          "block_data": {
+            "head": "Idea log",
+            "body": "One page. Silent. Box 4 is the one you read again in week 15."
+          }
+        }
+      ],
+      "visual_asset": null,
+      "speaker_notes": "If time runs short, cut the input — never the pitch. The pitch is how CO 109.2 is attained."
+    }
+  ]
+}

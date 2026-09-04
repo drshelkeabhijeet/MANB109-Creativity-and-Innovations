@@ -194,12 +194,13 @@ Write for BAMU students — many first-generation learners from rural and semi-u
 Marathwada. Examples come from their own anchor enterprises, not Silicon Valley case studies.
 Mind maps and SCAMPER are taught pen-and-paper first, software second.
 
-## Step 5 — `slides/`, `templates/`, `worksheets/`, `visuals/`
+## Step 5 — `templates/`, `worksheets/`, `visuals/` (slides done)
 
-- **slides/** — `slides_lec_NN.{md,json,html,pptx}`. Carry over the `defensive_guardrails`
-  from MANB307M: max 115 words and 8 bullets per slide, ≥40% negative space, min 14pt font.
-  A studio session needs **few slides** — they serve the 15-minute input beat only. Every
-  session must still run if the projector fails.
+- **slides/** — **done.** All 15 decks exist as `slides_lec_NN.{md,json,html,pptx}`, six
+  slides each: title, the one idea, two beat slides, the task, the close. They serve the
+  15-minute input beat only and `storyboard_meta.projector_required` is `false` on every
+  one. Guardrails hold: max 115 words per slide (highest actual is 70), min 14pt, no
+  bullets. Do not regenerate them; extend the generator if you need changes.
 - **rubrics/** — **skip.** This course carries no assessment plan by faculty decision;
   `assessment_co_po_alignment` is empty and `attainment_targets` is null. Leave `rubrics/`
   and `assessments/` empty. Do not invent graded components or weights. If an assessment
@@ -230,5 +231,6 @@ Mind maps and SCAMPER are taught pen-and-paper first, software second.
 - The five authored `templates/` files are unmodified.
 - Worksheets are one-page, bilingual and device-free.
 - `readings` is empty and `rubrics/` / `assessments/` are empty — both are deliberate.
+- Every deck is 6 slides, ≤115 words per slide, ≥14pt, and `projector_required: false`.
 - `build_telemetry` counts equal files on disk.
 - Set `dirty_invalidation_matrix.course_profile` to `false` only when all of the above pass.
