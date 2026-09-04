@@ -34,9 +34,10 @@ The course profile is **complete**. The syllabus is three units, 2 credits, 0:0:
 30 contact hours (10 per unit), delivered as 15 weekly 120-minute studio sessions,
 five per unit. There is no Unit 4.
 
-This course carries **no assessment plan** by faculty decision. The three prescribed
-hands-on activities are teaching activities, not graded components. Generate no rubrics,
-weights, or graded artefacts.
+This course carries **no assessment plan and no reading list** by faculty decision. The
+three prescribed hands-on activities are teaching activities, not graded components.
+Generate no rubrics, weights, graded artefacts, or citations — leave every `readings`
+field an empty array. Do not fill these from the other course repos' patterns.
 
 Steps 1 and 2 are **done**. Start at **Step 3**.
 
@@ -47,7 +48,6 @@ as such. Do not silently rewrite them:
 |---|---|
 | CO-PO matrix, `po_mapping`, `mapping_justification` | Generated, pending faculty sign-off |
 | `blooms_level` for 109.2 | Mapped `create` from the non-standard prescribed verb "Develop" |
-| Reference list in `course_profile.md` | Suggested, not prescribed |
 
 ### Two findings to carry into generation
 
@@ -85,6 +85,7 @@ independent application → the prescribed hands-on activity → critique and pi
   `source: "prescribed_syllabus_unit_N_hands_on_activity"`. Add your own supporting
   exercises alongside it, marked `source: "generated"`.
 - Activity minutes should be the majority of the 120.
+- Leave `readings` as an empty array on every session — no reading list is prescribed.
 - Strip `_exemplar` and `_note` from the finished file.
 - Every CO must be hit by at least one session. `109.2` in particular must appear in the
   `target_cos` of every session that ends in a pitch or share-out — that is its only
@@ -96,7 +97,8 @@ independent application → the prescribed hands-on activity → critique and pi
 One `lecture_lec_NN.json` + `lecture_lec_NN.md` per session. JSON keys, exactly:
 `schema_version, lecture_uuid, course_code, lecture_id, lecture_title, duration_minutes,
 target_co_ids, content, learning_objectives, pre_requisites, active_learning_components,
-readings`. Fresh UUID per session; `duration_minutes: 120`; `course_code: "MANB109"`.
+readings`. Fresh UUID per session; `duration_minutes: 120`; `course_code: "MANB109"`;
+`readings: []`.
 
 Write for BAMU students — many first-generation learners from rural and semi-urban
 Marathwada. Use local, low-cost examples (a kirana shop, an SHG, a coaching class, a
@@ -123,5 +125,6 @@ SCAMPER should be taught with pen and paper first, software second.
 - CO-PO matrix rows sum to `totals`; no CO is orphaned.
 - Unit `hours_allocated` sums to 30 (10 per unit, 3 units).
 - Exactly 15 sessions exist, 5 per unit.
+- `readings` is empty and `rubrics/` / `assessments/` are empty — both are deliberate.
 - `build_telemetry` counts equal files on disk.
 - Set `dirty_invalidation_matrix.course_profile` to `false` only when all of the above pass.

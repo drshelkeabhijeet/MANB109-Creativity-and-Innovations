@@ -134,18 +134,3 @@
 ### Session Plan
 
 15 weekly studio sessions of 120 minutes, five per unit, totalling 30 contact hours.
-
----
-
-## Reference Books
-
-> **SUGGESTED — not prescribed.** The source syllabus carries no reading list. These are
-> standard texts matching the three units; confirm with the Board of Studies.
-
-1. Michalko, M. — *Thinkertoys: A Handbook of Creative-Thinking Techniques.* Ten Speed Press. *(Units 1, 3)*
-2. Buzan, T. — *The Mind Map Book.* BBC Active. *(Unit 2)*
-3. de Bono, E. — *Lateral Thinking: Creativity Step by Step.* Harper Colophon. *(Unit 1)*
-4. Kelley, T. & Kelley, D. — *Creative Confidence: Unleashing the Creative Potential Within Us All.* Crown Business. *(Unit 1)*
-5. Eberle, B. — *SCAMPER: Creative Games and Activities for Imagination Development.* Prufrock Press. *(Unit 3)*
-6. Duarte, N. — *Resonate: Present Visual Stories that Transform Audiences.* Wiley. *(CO 109.2)*
-7. Osterwalder, A. & Pigneur, Y. — *Business Model Generation.* Wiley. *(Unit 2, startup mapping)*

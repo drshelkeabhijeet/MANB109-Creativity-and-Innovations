@@ -212,7 +212,7 @@
     }
   ],
   "_scaffold_notes": {
-    "status": "PROFILE_COMPLETE_PENDING_SIGNOFF",
+    "status": "PROFILE_COMPLETE",
     "verbatim_from_university": [
       "course_outcomes.statement",
       "course_outcomes.blooms_level_as_prescribed",
@@ -227,10 +227,9 @@
     ],
     "co_109_2_attainment": "No unit names storytelling or visual presentation. With only three units this is a permanent gap in the prescribed syllabus, not a missing page. 109.2 is therefore attained through the presentation component of all three prescribed hands-on activities and the final pitch, and Unit 2's mind mapping is itself a visual tool. This is a defensible reading, but it should be recorded with the Board of Studies rather than left implicit.",
     "po4_coverage": "PO4 (Ethical, Social and Inclusive Leadership) is mapped 0 by all four COs. Nothing in the prescribed syllabus addresses it, and inflating a mapping to fill the column would misstate attainment. PO coverage closes at programme level, not course level, so a 2-credit elective with no PO4 mapping is defensible - but confirm before submission.",
-    "open_items": [
-      "Reference book list: suggestions in course_profile.md, none prescribed - confirm with BoS."
-    ],
-    "assessment": "Out of scope for this workspace by faculty decision. assessment_co_po_alignment is intentionally empty and attainment_targets is null. The three prescribed hands-on activities remain in syllabus_outline as teaching activities, not graded components."
+    "open_items": [],
+    "assessment": "Out of scope for this workspace by faculty decision. assessment_co_po_alignment is intentionally empty and attainment_targets is null. The three prescribed hands-on activities remain in syllabus_outline as teaching activities, not graded components.",
+    "reference_list": "Out of scope for this workspace by faculty decision. No reading list is prescribed and none is suggested. Session and lecture 'readings' fields stay empty arrays."
   },
   "session_plan": {
     "total_sessions": 15,

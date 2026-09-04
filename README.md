@@ -30,12 +30,12 @@ Session content (`lectures/`, `slides/`, `templates/`, `worksheets/`, `visuals/`
 
 ### Pending faculty sign-off
 
-The CO-PO articulation matrix, the reference list, and the Bloom's mapping for 109.2 are
-generated rather than prescribed. They are marked as such in `course_profile.json` under
-`_scaffold_notes`.
+The CO-PO articulation matrix and the Bloom's mapping for 109.2 are generated rather than
+prescribed. Both are marked as such in `course_profile.json` under `_scaffold_notes`.
 
-This course carries **no assessment plan** by faculty decision — `assessment_co_po_alignment`
-is empty, `attainment_targets` is null, and `rubrics/` and `assessments/` stay empty.
+This course carries **no assessment plan and no reading list** by faculty decision —
+`assessment_co_po_alignment` is empty, `attainment_targets` is null, `readings` stays empty
+on every session, and `rubrics/` and `assessments/` stay empty.
 
 Two findings worth reading before sign-off:
 
