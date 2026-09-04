@@ -21,12 +21,28 @@ prescribed syllabus are in place; session content is not yet generated.
 
 ## Status
 
-Units 1–3 and all four COs are transcribed verbatim from the university-prescribed
-syllabus. **Units 4 onward, the assessment plan, and the reference list are still
-outstanding** — see the blocking-gaps table in [`CODEX_BRIEF.md`](CODEX_BRIEF.md).
+Course profile **complete**. Three units, 2 credits, L:T:P 0:0:2, 30 contact hours
+(10 per unit), delivered as 15 weekly 120-minute studio sessions. All four COs and all
+three units are transcribed verbatim from the university-prescribed syllabus.
 
-Note that **CO 109.2** (storytelling and visual tools) is not covered by Units 1–3; a later
-unit must serve it or the CO-PO matrix cannot close.
+Session content (`lectures/`, `slides/`, `rubrics/`, `templates/`, `worksheets/`,
+`visuals/`) is **not yet generated** — see [`CODEX_BRIEF.md`](CODEX_BRIEF.md), Step 3 onward.
+
+### Pending faculty sign-off
+
+The CO-PO articulation matrix, the assessment plan (every row marked `PROPOSED`), the
+reference list, and the Bloom's mapping for 109.2 are generated rather than prescribed.
+They are marked as such in `course_profile.json` under `_scaffold_notes`.
+
+Two findings worth reading before sign-off:
+
+- **CO 109.2** — *"Present creative ideas effectively using storytelling and visual tools"* —
+  is not named in any of the three units. It is attained through the presentation component
+  of the three prescribed hands-on activities and the final pitch. Worth recording with the
+  Board of Studies rather than leaving implicit.
+- **PO4** (Ethical, Social and Inclusive Leadership) is mapped 0 by all four COs. Nothing in
+  the syllabus addresses it. PO coverage closes at programme level, so this is defensible —
+  but confirm before submission.
 
 ## Generating content
 

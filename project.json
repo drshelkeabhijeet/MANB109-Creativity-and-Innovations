@@ -18,10 +18,13 @@
     "total_rubrics": 0,
     "total_templates": 0,
     "total_worksheets": 0,
-    "last_validated_at": ""
+    "last_validated_at": "",
+    "total_sessions_planned": 15
   },
   "dirty_invalidation_matrix": {
-    "course_profile": true,
+    "course_profile": false,
     "stale_lecture_nodes": []
-  }
+  },
+  "units": 3,
+  "total_contact_hours": 30
 }

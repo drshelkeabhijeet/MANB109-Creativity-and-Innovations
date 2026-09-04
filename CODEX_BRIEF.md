@@ -28,45 +28,54 @@ earlier.
 
 ---
 
-## Blocking gaps — resolve before Step 3
+## Status — gaps closed
 
-| # | Gap | Why it blocks |
-|---|---|---|
-| 1 | **Units 4+ missing.** Source syllabus ended at Unit 3. | Session plan cannot be laid out against 30 contact hours. |
-| 2 | **CO 109.2 has no home.** "Present creative ideas using storytelling and visual tools" is not covered by Units 1–3. | The CO-PO matrix will not close; an unattainable CO fails OBE audit. |
-| 3 | **Assessment plan absent.** No components, weights, or CO mapping. | Rubrics (Step 5) have nothing to grade against. |
-| 4 | **Reference books absent.** | Session `readings` cannot be populated. |
-| 5 | **`109.2` cognitive ability is "Develop"** — not a Bloom's Revised level. | `blooms_level` is `null`; decide the mapping (likely `create` or `apply`) before generating LOs for it. |
+The course profile is **complete**. The syllabus is three units, 2 credits, 0:0:2,
+30 contact hours (10 per unit), delivered as 15 weekly 120-minute studio sessions,
+five per unit. There is no Unit 4.
 
-Steps 1–2 can proceed now. **Step 3 onward needs gaps 1–3 closed.**
+Steps 1 and 2 are **done**. Start at **Step 3**.
+
+Two things in `course_profile.json` are generated rather than prescribed, and are marked
+as such. Do not silently rewrite them:
+
+| Item | State |
+|---|---|
+| CO-PO matrix, `po_mapping`, `mapping_justification` | Generated, pending faculty sign-off |
+| `assessment_co_po_alignment` | Every row marked `PROPOSED`; weights sum to 100% |
+| `blooms_level` for 109.2 | Mapped `create` from the non-standard prescribed verb "Develop" |
+| Reference list in `course_profile.md` | Suggested, not prescribed |
+
+### Two findings to carry into generation
+
+1. **CO 109.2 is not served by any unit.** "Present creative ideas effectively using
+   storytelling and visual tools" appears in no unit's topics. With only three units this
+   is permanent, not a missing page. It is attained instead through the **presentation
+   component of all three prescribed hands-on activities plus the final pitch**. Every
+   session you generate must therefore end with a share-out, pitch, or gallery walk, and
+   `109.2` must appear in the `target_cos` of those sessions. If you drop the presentation
+   beat, the CO becomes unattainable.
+
+2. **PO4 is mapped 0 across all four COs.** This is deliberate and honest — nothing in the
+   syllabus addresses ethical or inclusive leadership. Do not invent PO4 content to fill
+   the column.
 
 ---
 
-## Step 1 — Complete `course_profile.json` / `.md`
+## Steps 1–2 — DONE
 
-Fill `syllabus_outline` with the remaining units once supplied. Divide the **30 total
-contact hours** across all units and set `hours_allocated` on each (they must sum to 30).
-Keep Units 1–3 exactly as they are — they are verbatim from the university.
+Course profile and CO-PO matrix are complete in `course_profile.{json,md}`. Read them
+before generating anything; do not regenerate them.
 
-## Step 2 — CO-PO articulation matrix
+## Step 3 — `syllabus_manb109.json` ← START HERE
 
-For each of `109.1`–`109.4`, set `po_mapping` (`3` strong / `2` moderate / `1` light,
-omit zeros) and write a `mapping_justification` naming each PO and its weight, in the style
-of MANB304A. Then populate `co_po_articulation_matrix.matrix` (full 4×6 grid including
-zeros), `.totals` (per-CO and per-PO sums) and `.attainment_targets`.
+The single object in this file is a **shape reference** (`_exemplar: true`). Expand to
+**exactly 15 sessions**, `LEC_01` … `LEC_15`, five per unit, each 120 minutes. Copy the key
+structure exactly: `lecture_id, title, unit, duration, session_type, target_cos, lo,
+active_learning, content, readings`.
 
-Expect PO5 (Communication) and PO6 (Entrepreneurial) to carry this course — it is a studio
-elective about expressing and applying ideas, not a strategy or analytics course. Do not
-inflate PO2 mappings to make the grid look balanced.
-
-Mirror the result into the `## CO-PO Articulation Matrix` section of `course_profile.md`.
-
-## Step 3 — `syllabus_manb109.json`
-
-The single object in this file is a **shape reference** (`_exemplar: true`). Expand to the
-full session list, one object per 120-minute studio session, sequential `LEC_01`, `LEC_02`, …
-Copy the key structure exactly: `lecture_id, title, unit, duration, session_type,
-target_cos, lo, active_learning, content, readings`.
+Suggested arc within each unit's five sessions: concept and demonstration → guided practice →
+independent application → the prescribed hands-on activity → critique and pitch.
 
 - 3–5 learning objectives per session, each with an explicit `blooms` level.
 - Every prescribed hands-on activity must appear in `active_learning` **verbatim**, with
@@ -74,7 +83,10 @@ target_cos, lo, active_learning, content, readings`.
   exercises alongside it, marked `source: "generated"`.
 - Activity minutes should be the majority of the 120.
 - Strip `_exemplar` and `_note` from the finished file.
-- Every CO must be hit by at least one session. Verify before moving on.
+- Every CO must be hit by at least one session. `109.2` in particular must appear in the
+  `target_cos` of every session that ends in a pitch or share-out — that is its only
+  attainment path (see finding 1 above).
+- Verify all four COs are covered before moving on.
 
 ## Step 4 — `lectures/`
 
@@ -103,6 +115,7 @@ SCAMPER should be taught with pen and paper first, software second.
 
 - Every `target_co_ids` value resolves to a CO in `course_profile.json`.
 - CO-PO matrix rows sum to `totals`; no CO is orphaned.
-- Unit `hours_allocated` sums to 30.
+- Unit `hours_allocated` sums to 30 (10 per unit, 3 units).
+- Exactly 15 sessions exist, 5 per unit.
 - `build_telemetry` counts equal files on disk.
 - Set `dirty_invalidation_matrix.course_profile` to `false` only when all of the above pass.

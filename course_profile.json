@@ -64,17 +64,26 @@
       "statement": "Understand the foundations of creativity and innovation in a business context.",
       "blooms_level": "understand",
       "blooms_level_as_prescribed": "Understand",
-      "po_mapping": null,
-      "mapping_justification": null
+      "po_mapping": {
+        "PO1": 2,
+        "PO3": 1,
+        "PO6": 2
+      },
+      "mapping_justification": "Grasping the creative process and the creativity-to-innovation link equips students to frame problems before deciding (PO1:2). The Unit 1 activity redesigns a mobile app or website, giving light exposure to digital product thinking (PO3:1). Creativity is taught as the foundation of enterprise renewal, directly relevant to MSMEs and local businesses (PO6:2)."
     },
     {
       "co_uuid": "d01afcee-1af6-499a-b39f-681fbc9d6254",
       "co_id": "109.2",
       "statement": "Present creative ideas effectively using storytelling and visual tools.",
-      "blooms_level": null,
+      "blooms_level": "create",
       "blooms_level_as_prescribed": "Develop",
-      "po_mapping": null,
-      "mapping_justification": null
+      "po_mapping": {
+        "PO3": 2,
+        "PO5": 3,
+        "PO6": 2
+      },
+      "mapping_justification": "Presenting ideas through storytelling and visual tools is squarely a communication competence, exercised in every studio pitch (PO5:3). Visual articulation uses digital mind-mapping and presentation tools (PO3:2), and the ideas being pitched are enterprise and startup propositions (PO6:2).",
+      "blooms_mapping_note": "Prescribed cognitive ability is 'Develop', which is not a level in Bloom's Revised Taxonomy. Mapped to 'create' because the outcome requires producing an original pitch artefact (story + visual), not merely applying a given technique. Override here if the Board of Studies intends 'apply'."
     },
     {
       "co_uuid": "2c067a9c-e3a0-48b8-ba99-c8cceac420e3",
@@ -82,8 +91,14 @@
       "statement": "Use the SCAMPER technique to develop innovative ideas and solutions.",
       "blooms_level": "create",
       "blooms_level_as_prescribed": "Create",
-      "po_mapping": null,
-      "mapping_justification": null
+      "po_mapping": {
+        "PO1": 3,
+        "PO2": 2,
+        "PO3": 2,
+        "PO5": 1,
+        "PO6": 3
+      },
+      "mapping_justification": "SCAMPER is a structured generation-and-selection method: students produce alternatives and choose among them, which is managerial decision-making (PO1:3). Its seven prompts force systematic examination of a product across dimensions (PO2:2), applied in Unit 3 to a tech product such as an app or website (PO3:2). Team SCAMPER outputs are defended aloud (PO5:1), and the object throughout is improving a real product or service (PO6:3)."
     },
     {
       "co_uuid": "c9121400-3077-4c18-b27c-d29ec91050cb",
@@ -91,24 +106,180 @@
       "statement": "Apply mind mapping and creative techniques to solve real-world problems.",
       "blooms_level": "apply",
       "blooms_level_as_prescribed": "Apply",
-      "po_mapping": null,
-      "mapping_justification": null
+      "po_mapping": {
+        "PO1": 2,
+        "PO2": 3,
+        "PO3": 2,
+        "PO5": 2,
+        "PO6": 3
+      },
+      "mapping_justification": "Mind mapping is taught explicitly to break complex problems into manageable parts, which is structured problem diagnosis (PO2:3), and the resulting decomposition informs what to act on first (PO1:2). Unit 2 applies it to technology startup ideas and complex tech issues (PO3:2). Collaborative mind mapping is a shared visual artefact that teams reason through together (PO5:2), and the worked example is mapping the components needed to launch a venture (PO6:3)."
     }
   ],
   "co_po_articulation_matrix": {
     "description": "CO-PO Articulation Matrix for MANB109 Creativity and Innovations",
-    "matrix": null,
-    "totals": null,
-    "attainment_targets": null
+    "scale": "3 = Strong, 2 = Moderate, 1 = Light, 0 = No mapping",
+    "matrix": {
+      "109.1": {
+        "PO1": 2,
+        "PO2": 0,
+        "PO3": 1,
+        "PO4": 0,
+        "PO5": 0,
+        "PO6": 2
+      },
+      "109.2": {
+        "PO1": 0,
+        "PO2": 0,
+        "PO3": 2,
+        "PO4": 0,
+        "PO5": 3,
+        "PO6": 2
+      },
+      "109.3": {
+        "PO1": 3,
+        "PO2": 2,
+        "PO3": 2,
+        "PO4": 0,
+        "PO5": 1,
+        "PO6": 3
+      },
+      "109.4": {
+        "PO1": 2,
+        "PO2": 3,
+        "PO3": 2,
+        "PO4": 0,
+        "PO5": 2,
+        "PO6": 3
+      }
+    },
+    "totals": {
+      "109.1": 5,
+      "109.2": 7,
+      "109.3": 11,
+      "109.4": 12,
+      "PO1": 7,
+      "PO2": 5,
+      "PO3": 7,
+      "PO4": 0,
+      "PO5": 6,
+      "PO6": 10
+    },
+    "attainment_targets": {
+      "PO1_Strategic_Thinking": {
+        "target": "60%",
+        "measured_by": "109.1 + 109.3 + 109.4 weighted average"
+      },
+      "PO2_Analytical_Problem_Solving": {
+        "target": "60%",
+        "measured_by": "109.3 + 109.4 weighted average"
+      },
+      "PO3_Digital_Fluency": {
+        "target": "60%",
+        "measured_by": "109.1 + 109.2 + 109.3 + 109.4 weighted average"
+      },
+      "PO4_Ethical_Leadership": {
+        "target": null,
+        "measured_by": null,
+        "note": "Not mapped by this course. See _scaffold_notes.po4_coverage."
+      },
+      "PO5_Communication": {
+        "target": "70%",
+        "measured_by": "109.2 + 109.3 + 109.4 weighted average"
+      },
+      "PO6_Entrepreneurial_Application": {
+        "target": "70%",
+        "measured_by": "109.1 + 109.2 + 109.3 + 109.4 weighted average"
+      }
+    }
   },
-  "assessment_co_po_alignment": [],
+  "assessment_co_po_alignment": [
+    {
+      "assessment": "Studio Participation and Creative Engagement",
+      "weight": "10%",
+      "mapped_cos": [
+        "109.1"
+      ],
+      "mapped_pos": [
+        "PO1",
+        "PO6"
+      ],
+      "status": "PROPOSED",
+      "justification": "Continuous assessment of engagement in brainstorming and studio exercises across all three units."
+    },
+    {
+      "assessment": "Unit 1 Artefact: App/Website Redesign Brainstorm",
+      "weight": "20%",
+      "mapped_cos": [
+        "109.1",
+        "109.2"
+      ],
+      "mapped_pos": [
+        "PO1",
+        "PO3",
+        "PO5",
+        "PO6"
+      ],
+      "status": "PROPOSED",
+      "justification": "Prescribed Unit 1 hands-on activity, graded on the creative solution and its presentation."
+    },
+    {
+      "assessment": "Unit 2 Artefact: Technology Startup Mind Map",
+      "weight": "20%",
+      "mapped_cos": [
+        "109.4",
+        "109.2"
+      ],
+      "mapped_pos": [
+        "PO2",
+        "PO3",
+        "PO5",
+        "PO6"
+      ],
+      "status": "PROPOSED",
+      "justification": "Prescribed Unit 2 hands-on activity, graded on decomposition quality and visual clarity."
+    },
+    {
+      "assessment": "Unit 3 Artefact: Team SCAMPER Product Redesign",
+      "weight": "25%",
+      "mapped_cos": [
+        "109.3",
+        "109.2"
+      ],
+      "mapped_pos": [
+        "PO1",
+        "PO2",
+        "PO3",
+        "PO5",
+        "PO6"
+      ],
+      "status": "PROPOSED",
+      "justification": "Prescribed Unit 3 hands-on activity, graded on systematic SCAMPER application and team defence."
+    },
+    {
+      "assessment": "Final Creative Portfolio and Pitch",
+      "weight": "25%",
+      "mapped_cos": [
+        "109.2",
+        "109.3",
+        "109.4"
+      ],
+      "mapped_pos": [
+        "PO1",
+        "PO5",
+        "PO6"
+      ],
+      "status": "PROPOSED",
+      "justification": "Consolidated portfolio of studio work with a storytelling pitch; the primary attainment evidence for 109.2."
+    }
+  ],
   "syllabus_outline": [
     {
       "unit_uuid": "7b87d0ee-6ae0-43e4-8d70-98445787b928",
       "unit_number": 1,
       "title": "Foundations of Creativity and Innovation",
       "description": "Introduction to Creativity: definition, importance, and role in problem-solving. Creativity vs. Innovation. The Creative Process. Barriers to Creativity.",
-      "hours_allocated": null,
+      "hours_allocated": 10,
       "key_topics": [
         "Introduction to Creativity: Definition, importance, and role in problem-solving",
         "Creativity vs. Innovation: How creative thinking leads to innovation in business",
@@ -122,7 +293,7 @@
       "unit_number": 2,
       "title": "Mind Mapping and Creative Thinking Techniques",
       "description": "Basics and benefits of mind mapping, mind mapping for problem solving, and collaborative mind mapping for team projects.",
-      "hours_allocated": null,
+      "hours_allocated": 10,
       "key_topics": [
         "Introduction to Mind Mapping: Basics of mind mapping, its benefits, and how it helps with idea generation",
         "Mind Mapping for Problem Solving: Using mind maps to break down complex tech issues into manageable parts",
@@ -135,7 +306,7 @@
       "unit_number": 3,
       "title": "SCAMPER Technique for Innovation",
       "description": "SCAMPER as a structured creativity tool, applied to product improvement and to real-world business or tech problems in teams.",
-      "hours_allocated": null,
+      "hours_allocated": 10,
       "key_topics": [
         "Introduction to SCAMPER: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Rearrange",
         "Using SCAMPER for Product Improvement: Applying SCAMPER to improve existing products or services",
@@ -145,18 +316,33 @@
     }
   ],
   "_scaffold_notes": {
-    "status": "SEEDED_FROM_PRESCRIBED_SYLLABUS_PARTIAL",
+    "status": "PROFILE_COMPLETE_PENDING_SIGNOFF",
     "verbatim_from_university": [
       "course_outcomes.statement",
-      "syllabus_outline (units 1-3)"
+      "course_outcomes.blooms_level_as_prescribed",
+      "syllabus_outline (units 1-3, all key_topics and hands_on_activity)",
+      "credits, ltp, unit count"
     ],
+    "generated_pending_faculty_signoff": [
+      "co_po_articulation_matrix and all po_mapping / mapping_justification",
+      "assessment_co_po_alignment (every row marked PROPOSED)",
+      "hours_allocated (30 hours divided evenly across 3 units)",
+      "blooms_level for 109.2",
+      "session_plan"
+    ],
+    "co_109_2_attainment": "No unit names storytelling or visual presentation. With only three units this is a permanent gap in the prescribed syllabus, not a missing page. 109.2 is therefore attained through the presentation component of all three prescribed hands-on activities and the final pitch, and Unit 2's mind mapping is itself a visual tool. This is a defensible reading, but it should be recorded with the Board of Studies rather than left implicit.",
+    "po4_coverage": "PO4 (Ethical, Social and Inclusive Leadership) is mapped 0 by all four COs. Nothing in the prescribed syllabus addresses it, and inflating a mapping to fill the column would misstate attainment. PO coverage closes at programme level, not course level, so a 2-credit elective with no PO4 mapping is defensible - but confirm before submission.",
     "open_items": [
-      "syllabus_outline: units 4+ not supplied - source image ended after Unit 3.",
-      "CO 109.2 (storytelling / visual tools) is not covered by units 1-3; a later unit must address it.",
-      "hours_allocated: null for all units - 30 total contact hours to be divided once unit count is known.",
-      "co_po_articulation_matrix + po_mapping + mapping_justification: to be generated.",
-      "assessment_co_po_alignment: empty - assessment plan and weights not yet supplied.",
-      "blooms_level for 109.2 is null: prescribed verb 'Develop' is not a Bloom's revised level."
+      "Reference book list: suggestions added to course_profile.md, none prescribed - confirm with BoS.",
+      "Assessment weights are proposed, not prescribed - confirm against the university scheme."
     ]
+  },
+  "session_plan": {
+    "total_sessions": 15,
+    "session_duration_minutes": 120,
+    "sessions_per_unit": 5,
+    "total_contact_hours": 30,
+    "weeks": 15,
+    "note": "15 weekly 120-minute studio sessions, 5 per unit."
   }
 }
